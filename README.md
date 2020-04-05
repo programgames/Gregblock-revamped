@@ -15,7 +15,7 @@ Changelog :
 - update GregTechCE to 1.9
 - GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.9.
 
-- Installation : 
+Installation : 
 
 - Open the zip file in your favorite launcher
 - Wait for mods downloading
