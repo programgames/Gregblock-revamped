@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "GregBlock Revamped",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "XXXotpgarenXXX",
   "files": [
     {
@@ -35,6 +35,16 @@
       "required": true
     },
     {
+      "projectID": 286710,
+      "fileID": 2675062,
+      "required": true
+    },
+    {
+      "projectID": 275356,
+      "fileID": 2468740,
+      "required": true
+    },
+    {
       "projectID": 267602,
       "fileID": 2915363,
       "required": true
@@ -46,7 +56,12 @@
     },
     {
       "projectID": 285612,
-      "fileID": 2863699,
+      "fileID": 2921432,
+      "required": true
+    },
+    {
+      "projectID": 247111,
+      "fileID": 2887479,
       "required": true
     },
     {
@@ -131,7 +146,7 @@
     },
     {
       "projectID": 224728,
-      "fileID": 2902494,
+      "fileID": 2925393,
       "required": true
     },
     {
@@ -211,7 +226,12 @@
     },
     {
       "projectID": 298187,
-      "fileID": 2904659,
+      "fileID": 2928313,
+      "required": true
+    },
+    {
+      "projectID": 70496,
+      "fileID": 2518031,
       "required": true
     },
     {
@@ -226,7 +246,7 @@
     },
     {
       "projectID": 281849,
-      "fileID": 2908729,
+      "fileID": 2922485,
       "required": true
     },
     {
@@ -246,7 +266,7 @@
     },
     {
       "projectID": 239197,
-      "fileID": 2838090,
+      "fileID": 2926879,
       "required": true
     },
     {
@@ -366,7 +386,7 @@
     },
     {
       "projectID": 226254,
-      "fileID": 2911682,
+      "fileID": 2921192,
       "required": true
     },
     {
@@ -390,13 +410,13 @@
       "required": true
     },
     {
-      "projectID": 229876,
-      "fileID": 2483393,
+      "projectID": 229045,
+      "fileID": 2745548,
       "required": true
     },
     {
-      "projectID": 229045,
-      "fileID": 2745548,
+      "projectID": 229876,
+      "fileID": 2483393,
       "required": true
     },
     {
@@ -415,8 +435,8 @@
       "required": true
     },
     {
-      "projectID": 309110,
-      "fileID": 2655843,
+      "projectID": 291936,
+      "fileID": 2682853,
       "required": true
     },
     {
@@ -425,8 +445,8 @@
       "required": true
     },
     {
-      "projectID": 291936,
-      "fileID": 2682853,
+      "projectID": 309110,
+      "fileID": 2655843,
       "required": true
     },
     {
@@ -435,13 +455,13 @@
       "required": true
     },
     {
-      "projectID": 293327,
-      "fileID": 2865729,
+      "projectID": 248453,
+      "fileID": 2785465,
       "required": true
     },
     {
-      "projectID": 248453,
-      "fileID": 2785465,
+      "projectID": 293327,
+      "fileID": 2865729,
       "required": true
     },
     {
@@ -455,28 +475,33 @@
       "required": true
     },
     {
-      "projectID": 237102,
-      "fileID": 2835289,
-      "required": true
-    },
-    {
-      "projectID": 250398,
-      "fileID": 2857064,
-      "required": true
-    },
-    {
       "projectID": 296657,
       "fileID": 2576139,
       "required": true
     },
     {
-      "projectID": 243478,
-      "fileID": 2745657,
+      "projectID": 250398,
+      "fileID": 2926366,
+      "required": true
+    },
+    {
+      "projectID": 237102,
+      "fileID": 2835289,
+      "required": true
+    },
+    {
+      "projectID": 225194,
+      "fileID": 2491032,
       "required": true
     },
     {
       "projectID": 250957,
       "fileID": 2630860,
+      "required": true
+    },
+    {
+      "projectID": 243478,
+      "fileID": 2745657,
       "required": true
     },
     {
