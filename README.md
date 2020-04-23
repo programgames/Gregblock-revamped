@@ -12,6 +12,8 @@ I will fix them as fast as possible.
 
 Changelog :
 - update most of mods
+- add Schematic
+- add AE2Stuff ( only wireless stuff , free feel to disable it if u want)
 - update GregTechCE to 1.9
 - GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.9.
 
