@@ -1,4 +1,5 @@
 //Vanilla
+
 //Only in the chemical reactor
 recipes.removeByRecipeName("minecraft:ender_eye");
 recipes.remove(<minecraft:golden_apple>);
@@ -2295,3 +2296,6 @@ recipes.addShaped(<tconstruct:pattern>.withTag({PartType: "tconstruct:bow_limb"}
 [<tconstruct:pattern>,<gregtech:meta_tool:17>,null],
 [null,null,null]
 ]);
+
+//Revamped fix
+mods.jei.JEI.removeAndHide(<exnihilocreatio:block_end_cake>);
