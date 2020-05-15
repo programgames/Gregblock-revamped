@@ -1,5 +1,4 @@
 //Vanilla
-
 //Only in the chemical reactor
 recipes.removeByRecipeName("minecraft:ender_eye");
 recipes.remove(<minecraft:golden_apple>);
