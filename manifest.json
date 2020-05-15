@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "GregBlock Revamped",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "XXXotpgarenXXX",
   "files": [
     {
@@ -147,11 +147,6 @@
     {
       "projectID": 241895,
       "fileID": 2733525,
-      "required": true
-    },
-    {
-      "projectID": 225194,
-      "fileID": 2491032,
       "required": true
     },
     {
