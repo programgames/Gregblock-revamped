@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "GregBlock Revamped",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "author": "XXXotpgarenXXX",
   "files": [
     {
@@ -111,7 +111,7 @@
     },
     {
       "projectID": 226254,
-      "fileID": 2921192,
+      "fileID": 2959599,
       "required": true
     },
     {
@@ -137,6 +137,11 @@
     {
       "projectID": 245211,
       "fileID": 2667280,
+      "required": true
+    },
+    {
+      "projectID": 349942,
+      "fileID": 2896844,
       "required": true
     },
     {
@@ -206,7 +211,7 @@
     },
     {
       "projectID": 239197,
-      "fileID": 2926879,
+      "fileID": 2958236,
       "required": true
     },
     {
@@ -276,7 +281,7 @@
     },
     {
       "projectID": 258205,
-      "fileID": 2758483,
+      "fileID": 2948679,
       "required": true
     },
     {
@@ -311,7 +316,7 @@
     },
     {
       "projectID": 308380,
-      "fileID": 2936476,
+      "fileID": 2945554,
       "required": true
     },
     {
@@ -391,7 +396,7 @@
     },
     {
       "projectID": 285612,
-      "fileID": 2932525,
+      "fileID": 2943191,
       "required": true
     },
     {
@@ -421,7 +426,7 @@
     },
     {
       "projectID": 238856,
-      "fileID": 2935497,
+      "fileID": 2950248,
       "required": true
     },
     {
@@ -451,7 +456,7 @@
     },
     {
       "projectID": 223852,
-      "fileID": 2887858,
+      "fileID": 2952606,
       "required": true
     },
     {
@@ -470,13 +475,13 @@
       "required": true
     },
     {
-      "projectID": 238361,
-      "fileID": 2845522,
+      "projectID": 232791,
+      "fileID": 2818064,
       "required": true
     },
     {
-      "projectID": 232791,
-      "fileID": 2818064,
+      "projectID": 238361,
+      "fileID": 2845522,
       "required": true
     },
     {

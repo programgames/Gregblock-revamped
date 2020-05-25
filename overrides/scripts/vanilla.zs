@@ -160,7 +160,6 @@ mods.jei.JEI.removeAndHide(<appliedenergistics2:material:10>);
 mods.jei.JEI.removeAndHide(<appliedenergistics2:material:11>);
 mods.jei.JEI.removeAndHide(<appliedenergistics2:material:12>);
 
-mods.jei.JEI.removeAndHide(<appliedenergistics2:charger>);
 mods.appliedenergistics2.Inscriber.removeRecipe(<appliedenergistics2:material:16>);
 mods.appliedenergistics2.Inscriber.removeRecipe(<appliedenergistics2:material:17>);
 mods.appliedenergistics2.Inscriber.removeRecipe(<appliedenergistics2:material:18>);
