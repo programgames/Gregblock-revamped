@@ -15,6 +15,9 @@ Changelog :
 - add Schematic
 - update GregTechCE to 1.9
 - add OpenComputer
+- add Volumetric Flask
+- add charger from ae2
+- fix some bugs
 - GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.9.
 
 Installation : 
