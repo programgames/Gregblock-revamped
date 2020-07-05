@@ -58,14 +58,14 @@ val copperFineWire = <gregtech:meta_item_2:16087> as IItemStack;
 val glassFiber = <gtadditions:ga_meta_item:32021> as IItemStack;
 
 // Wires (coarse, I guess).
-val redAlloyWire = <gregtech:cable_red_alloy> as IItemStack;
-val platinumWire = <gregtech:cable_platinum> as IItemStack;
-val osmiumWire = <gregtech:cable_osmium> as IItemStack;
+val redAlloyWire = <gregtech:cable:237> as IItemStack;
+val platinumWire = <gregtech:cable:51> as IItemStack;
+val osmiumWire = <gregtech:cable:47> as IItemStack;
 
 // Cables.
-val redAlloyCable = <gregtech:cable_red_alloy:5> as IItemStack;
-val platinumCable = <gregtech:cable_platinum:5> as IItemStack;
-val osmiumCable = <gregtech:cable_osmium:5> as IItemStack;
+val redAlloyCable = <gregtech:cable:5237> as IItemStack;
+val platinumCable = <gregtech:cable:5051> as IItemStack;
+val osmiumCable = <gregtech:cable:5047> as IItemStack;
 
 // Foils.
 val copperFoil = <gregtech:meta_item_1:19087> as IItemStack;
@@ -161,7 +161,7 @@ val glassLens = <gregtech:meta_item_1:15209> as IItemStack;
 val diamondLens = <gregtech:meta_item_1:15111> as IItemStack;
 var wifiRecv = <appliedenergistics2:material:41> as IItemStack;
 var wifiBoost = <appliedenergistics2:material:42> as IItemStack;
-var infinityBoost = <wct:infinity_booster_card> as IItemStack;
+var infinityBoost = <ae2wtlib:infinity_booster_card> as IItemStack;
 val singularity = <appliedenergistics2:material:48> as IItemStack;
 val tinRing = <gregtech:meta_item_1:18071> as IItemStack;
 val magNdDust = <gregtech:meta_item_1:2299> as IItemStack;
@@ -318,7 +318,7 @@ t15Circuit(t15RAM, [ramChip*4,  logicChip,    redAlloyFineWire*6,  copperFoil*2,
 t2Circuit( t2RAM,  [ramChip*6,  logicChip*2,  platinumFineWire*12, goldFoil*2,     epoxyBoard]);
 t25Circuit(t25RAM, [ramChip*8,  lapotronChip, platinumFineWire*16, goldFoil*2,     epoxyBoard]);
 t3Circuit( t3RAM,  [ramChip*12, socChip,      osmiumFineWire*24,   grapheneFoil*2, multilayerBoard]);
-t35Circuit(t35RAM, [ramChip*16, asocChip      osmiumFineWire*32,   grapheneFoil*2, multilayerBoard]);
+t35Circuit(t35RAM, [ramChip*16, asocChip,      osmiumFineWire*32,   grapheneFoil*2, multilayerBoard]);
 
 // Cards
 t1Circuit(t1GfxCard, [arithLogicUnit,   cpuChip*2,  t1RAM, cardBase]);
