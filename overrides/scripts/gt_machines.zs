@@ -34,7 +34,10 @@ val centrifuge = RecipeMap.getByName("centrifuge");
 
 //Ex Nihilo
 hammer.findRecipe(8,[<minecraft:cobblestone>],[null]).remove();
-//macerator.findRecipe(8,[<minecraft:cobblestone>],[null]).remove();
+
+macerator.findRecipe(12,[<minecraft:cobblestone>],[null]).remove();
+macerator.findRecipe(12,[<minecraft:cobblestone>],[null]).remove();
+
 macerator.findRecipe(8,[<minecraft:gravel>],[null]).remove();
 
 hammer.recipeBuilder().inputs([<ore:cobblestone>]).outputs([<minecraft:gravel>]).duration(16).EUt(10).buildAndRegister();
