@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "GregBlock Revamped",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "author": "XXXotpgarenXXX",
   "files": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "projectID": 261251,
-      "fileID": 2638317,
+      "fileID": 3045651,
       "required": true
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "projectID": 257356,
-      "fileID": 2763309,
+      "fileID": 3002645,
       "required": true
     },
     {
@@ -111,7 +111,7 @@
     },
     {
       "projectID": 226254,
-      "fileID": 2995656,
+      "fileID": 3074246,
       "required": true
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "projectID": 387275,
-      "fileID": 2990422,
+      "fileID": 3034241,
       "required": true
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "projectID": 298187,
-      "fileID": 2928313,
+      "fileID": 3005950,
       "required": true
     },
     {
@@ -181,7 +181,7 @@
     },
     {
       "projectID": 274259,
-      "fileID": 2818975,
+      "fileID": 3004475,
       "required": true
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "projectID": 277064,
-      "fileID": 2912859,
+      "fileID": 3040592,
       "required": true
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "projectID": 239197,
-      "fileID": 2958236,
+      "fileID": 3040575,
       "required": true
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 2926366,
+      "fileID": 3025548,
       "required": true
     },
     {
@@ -336,7 +336,7 @@
     },
     {
       "projectID": 237102,
-      "fileID": 2990099,
+      "fileID": 3010492,
       "required": true
     },
     {
@@ -356,7 +356,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2988828,
+      "fileID": 3040523,
       "required": true
     },
     {
@@ -391,7 +391,7 @@
     },
     {
       "projectID": 285612,
-      "fileID": 2996061,
+      "fileID": 3070895,
       "required": true
     },
     {
@@ -470,13 +470,13 @@
       "required": true
     },
     {
-      "projectID": 232791,
-      "fileID": 2818064,
+      "projectID": 238361,
+      "fileID": 2845522,
       "required": true
     },
     {
-      "projectID": 238361,
-      "fileID": 2845522,
+      "projectID": 232791,
+      "fileID": 2818064,
       "required": true
     },
     {
