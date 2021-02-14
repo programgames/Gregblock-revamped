@@ -92,7 +92,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Routed Piping",
-          "desc:8": " Project Red\u0027s Routed Piping network is the most complicated and most useful form of item piping until AE2. The network mainly consists of:\n-Item Pipes - for connecting all the other parts of the network\n-Junction Pipes - for making sure items make the right turns in a junction\n-Request Pipes - for requesting items from the network\n-Interface Pipes - by far the most important ones as they\u0027re what lets you connect machines and inventories to your network. For that, it takes up to 4 Chips, with the most important ones being:\n -Extractor Chips - for automatically extracting items from the connected inventory\n -Responder Chips - for letting extracted items go into the connected invetory. If you want anything to go into it, make sure to set the filter to a blacklist instead of a whitelist\n -Crafting Chips - for having the connected machine make the requested item\n -Broadcaster Chips - for lettng you request items out of the connected inventory"
+          "desc:8": " Project Red\u0027s Routed Piping network is the most complicated and most useful form of item piping until AE2. The network mainly consists of:\n-Item Pipes - for connecting all the other parts of the network\n-Junction Pipes - for making sure items make the right turns in a junction\n-Request Pipes - for requesting items from the network\n-Interface Pipes - by far the most important ones as they let you connect machines and inventories to your network. For that, it takes up to 4 Chips, with the most important ones being:\n -Extractor Chips - for automatically extracting items from the connected inventory\n -Responder Chips - for letting extracted items go into the connected inventory. If you want anything to go into it, make sure to set the filter to a blacklist instead of a whitelist\n -Crafting Chips - for having the connected machine make the requested item\n -Broadcaster Chips - for letting you request items out of the connected inventory"
         }
       },
       "tasks:9": {
@@ -223,7 +223,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Age 0 - The Manual Age",
-          "desc:8": " Welcome to GregBlock! To begin with the Manual Age you are going to need to get 2 Logs from the tree on your island and make a Crafting Table. Yup, 2. This, my friend, is GregTech.\n\n If you\u0027re playing on multiplayer and want to join someone else, do /island for information on how to do that."
+          "desc:8": " Welcome to GregBlock! To begin with the Manual Age, you are going to need to get 2 Logs from the tree on your island and make a Crafting Table. Yup, 2. This, my friend, is GregTech.\n\n If you\u0027re playing on multiplayer and want to join someone else, do /island for information on how to do that."
         }
       },
       "tasks:9": {
@@ -578,7 +578,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Age 3 - The MV Age",
-          "desc:8": " Getting to the MV Age is slightly more complicated than gettng to the LV Age was. You\u0027re going to need a Good Integrated Circuit, which is made with 3 Basic Circuits, 2 Diodes and a Good Phenolic Circuit Board."
+          "desc:8": " Getting to the MV Age is slightly more complicated than getting to the LV Age was. You\u0027re going to need a Good Integrated Circuit, which is made with 3 Basic Circuits, 2 Diodes and a Good Phenolic Circuit Board."
         }
       },
       "tasks:9": {
@@ -760,7 +760,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Age 5 - The EV Age",
-          "desc:8": " Since you already have an exteme Circuit, all that\u0027s left for you to get into the EV age is the Machine Hull. It\u0027s made out of Titanium, which can siply be made by putting together the Titanium Tetrachloride and Manganese in the Electric Blast Furnace and then freezing it."
+          "desc:8": " Since you already have an extreme Circuit, all that\u0027s left for you to get into the EV age is the Machine Hull. It\u0027s made out of Titanium, which can simply be made by putting together the Titanium Tetrachloride and Manganese in the Electric Blast Furnace and then freezing it."
         }
       },
       "tasks:9": {
@@ -1243,7 +1243,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Cobblestone",
-          "desc:8": " A Sieve with a String Mesh will allow you to sift a variety of materials, including Dirt. By sifting Dirt, you ca obtain Pebbles, with which you can craft Cobblestone."
+          "desc:8": " A Sieve with a String Mesh will allow you to sift a variety of materials, including Dirt. By sifting Dirt, you can obtain Pebbles, with which you can craft Cobblestone."
         }
       },
       "tasks:9": {
@@ -1345,8 +1345,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Wrough Around The Edges",
-          "desc:8": " You are able to smelt an Iron Nugget into a Wrough Iron one and then craft 9 of those into a Wrough Iron Ingot. Wrough Iron can be used for most things that regular Iron can be used for, but the tools made from it have 1.5 times the durability."
+          "name:8": "Wrought Around The Edges",
+          "desc:8": " You are able to smelt an Iron Nugget into a Wrought Iron one and then craft 9 of those into a Wrought Iron Ingot. Wrought Iron can be used for most things that regular Iron can be used for, but the tools made from it have 1.5 times the durability."
         }
       },
       "tasks:9": {
@@ -1524,7 +1524,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Lemme Smash!",
-          "desc:8": " With some Coblestone, you are able to make a Stone Hammer. With it, you are able to turn Cobblestone into Gravel, Gravel into Sand and Sand into Dust."
+          "desc:8": " With some Cobblestone, you are able to make a Stone Hammer. With it, you are able to turn Cobblestone into Gravel, Gravel into Sand and Sand into Dust."
         }
       },
       "tasks:9": {
@@ -1940,7 +1940,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Lava",
-          "desc:8": " With a Porcelain Crucible you\u0027ll be able to melt the various types of rocks, with igneous rocks being the most efficient, into Lava. For that to happen, you are going to need a heat source, such as a Torch, below it. Then, using a Bucket, you are able to collect it, place it in the world and make a manual Cobblestone/Diorite/Granite/Andesite generator.\n\n What gets generated depends on the lenght of the water stream touching the Lava. If it\u0027s 1 or 2 blocks long it makes Cobblestone, if it\u0027s 3 or 4 blocks long it makes Diorite, if it\u0027s 5 or 6 blocks long it makes Granite and if it\u0027s 7 or 8 blocks long it makes Andesite."
+          "desc:8": " With a Porcelain Crucible you\u0027ll be able to melt the various types of rocks, with igneous rocks being the most efficient, into Lava. For that to happen, you are going to need a heat source, such as a Torch, below it. Then, using a Bucket, you are able to collect it, place it in the world and make a manual Cobblestone/Diorite/Granite/Andesite generator.\n\n What gets generated depends on the length of the water stream touching the Lava. If it\u0027s 1 or 2 blocks long it makes Cobblestone, if it\u0027s 3 or 4 blocks long it makes Diorite, if it\u0027s 5 or 6 blocks long it makes Granite and if it\u0027s 7 or 8 blocks long it makes Andesite."
         }
       },
       "tasks:9": {
@@ -2040,7 +2040,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Tier 1 Sifting",
-          "desc:8": " By Siftng Gravel, Sand Crushed Diorite, Granite and Andesite, you are able to obtain Ore Chunks of which some can be smelted into Ingots. With the String Mesh, the main materials you are going to get are Iron, Tin, Copper, Coal and Lignite."
+          "desc:8": " By Sifting Gravel, Sand Crushed Diorite, Granite and Andesite, you are able to obtain Ore Chunks of which some can be smelted into Ingots. With the String Mesh, the main materials you are going to get are Iron, Tin, Copper, Coal and Lignite."
         }
       },
       "tasks:9": {
@@ -2127,7 +2127,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Bukkit",
-          "desc:8": " For carrying around fluids, you are going to need a Bucket. Now, you know how a Bucket is Curved? Well, to make it you are going to need to curve some Plates with a Bending Cylinder. Sure, you could have also made a Clay Bucket, but that doesnt quite work on hot fluids, so you\u0027re better off making an Iron one."
+          "desc:8": " For carrying around fluids, you are going to need a Bucket. Now, you know how a Bucket is Curved? Well, to make it you are going to need to curve some Plates with a Bending Cylinder. Sure, you could have also made a Clay Bucket, but that doesn't quite work on hot fluids, so you\u0027re better off making an Iron one."
         }
       },
       "tasks:9": {
@@ -2884,7 +2884,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Tier 2 Sifting",
-          "desc:8": " The Tin Alloy Mesh gives you access to a new new materials, including Redstone, Rubies, Sapphires Topaz, Lead, Silver and Lapis. It also gives you more Copper."
+          "desc:8": " The Tin Alloy Mesh gives you access to new materials, including Redstone, Rubies, Sapphires Topaz, Lead, Silver and Lapis. It also gives you more Copper."
         }
       },
       "tasks:9": {
@@ -5313,7 +5313,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Basic Shape Smelter",
-          "desc:8": " The Shape Shape Smelter uses LV power to shape materials into certain shapes."
+          "desc:8": " The Basic Shape Smelter uses LV power to shape materials into certain shapes."
         }
       },
       "tasks:9": {
@@ -6401,7 +6401,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Basic Polarizer",
-          "desc:8": " The Basic Polzarizer uses LV power to turn Iron, Steel and Neodynium into their magnetic versions."
+          "desc:8": " The Basic Polarizer uses LV power to turn Iron, Steel and Neodymium into their magnetic versions."
         }
       },
       "tasks:9": {
@@ -6748,7 +6748,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Large Bronze Boiler",
-          "desc:8": " The Large Bronze Boiler is a multblock structure that is able to create a much larger amount of Steam than the single-block Boilers. It uses Furnace, Diesel Generator and SemiFluid fuels to heat up. As it heats up, it produces more and more Steam. Once it\u0027s at max heat, it starts using less fuel. Furnace fuels last a 60th of the amount they do in a Furnace, Diesel Generator fuels last a quarter the amount they do in the Diesel Generator and SemiFluid fuels last double the amount displayed in JEI."
+          "desc:8": " The Large Bronze Boiler is a multiblock structure that is able to create a much larger amount of Steam than the single-block Boilers. It uses Furnace, Diesel Generator and SemiFluid fuels to heat up. As it heats up, it produces more and more Steam. Once it\u0027s at max heat, it starts using less fuel. Furnace fuels last a 60th of the amount they do in a Furnace, Diesel Generator fuels last a quarter the amount they do in the Diesel Generator and SemiFluid fuels last double the amount displayed in JEI."
         }
       },
       "tasks:9": {
@@ -6926,7 +6926,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Lube",
-          "desc:8": " Lubricant is the most efficient lubricant in the Cuttng Machine and is used in almost all Assembly Line recipes (thought you\u0027re really far from making that multiblock). Even thought it can be made in the Distillery, it\u0027s most efficiently made in the Mixer, bu combining Oil, Seed Oil or Creosote Oil with Talc, Soapstone or Redstone Dust."
+          "desc:8": " Lubricant is the most efficient lubricant in the Cutting Machine and is used in almost all Assembly Line recipes (thought you\u0027re really far from making that multiblock). Even though it can be made in the Distillery, it\u0027s most efficiently made in the Mixer, by combining Oil, Seed Oil or Creosote Oil with Talc, Soapstone or Redstone Dust."
         }
       },
       "tasks:9": {
@@ -7664,7 +7664,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "LV Battery Buffer",
-          "desc:8": " The LV Battery Buffers allow you to store LV power in Batteries. There are different Batteries with different power capacities and there are different Buffers with diffrent storage capacities. It\u0027s generally a good idea to store your power so you don\u0027t use it up at the same time you\u0027re generating it. Before making any Batteries, you are going to need Battery Alloy, made from Lead and Antimony."
+          "desc:8": " The LV Battery Buffers allow you to store LV power in Batteries. There are different Batteries with different power capacities and there are different Buffers with different storage capacities. It\u0027s generally a good idea to store your power so you don\u0027t use it up at the same time you\u0027re generating it. Before making any Batteries, you are going to need Battery Alloy, made from Lead and Antimony."
         }
       },
       "tasks:9": {
@@ -7997,7 +7997,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Basic Tools",
-          "desc:8": " As you may have noticed, you can\u0027t craft Wooden tools. However, you can make Flint tools from GregTech. All of GregTech\u0027s tools aren\u0027t in JEI, only the Darmstandium versions are. However, you can click on them to view the recipes for all the versions of said tools. Unlike the rest of the GT Tools, the Flint ones can be crafted the vanilla way."
+          "desc:8": " As you may have noticed, you can\u0027t craft Wooden tools. However, you can make Flint tools from GregTech. All of GregTech\u0027s tools aren\u0027t in JEI, only the Darmstadtium versions are. However, you can click on them to view the recipes for all the versions of said tools. Unlike the rest of the GT Tools, the Flint ones can be crafted the vanilla way."
         }
       },
       "tasks:9": {
@@ -8321,7 +8321,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Polarizer",
-          "desc:8": " The Advanced Polzarizer uses MV power to turn Iron, Steel and Neodynium into their magnetic versions."
+          "desc:8": " The Advanced Polarizer uses MV power to turn Iron, Steel and Neodymium into their magnetic versions."
         }
       },
       "tasks:9": {
@@ -8572,7 +8572,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Advanced Extruder",
-          "desc:8": " The Advanced Extruder uses MV power to shape Ingots into many diffferent parts."
+          "desc:8": " The Advanced Extruder uses MV power to shape Ingots into many different parts."
         }
       },
       "tasks:9": {
@@ -9164,7 +9164,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Arc Furnace",
-          "desc:8": " The Advanced Arc Furnace uses Oxygen and MV power to turn metal parts into Ingots and Nuggets. However, it comes at a cost. Rubber, Wood and plastics get turned into Ash, Copper gets turned into Annealed Copper and Iron gets turned into Wrough Iron."
+          "desc:8": " The Advanced Arc Furnace uses Oxygen and MV power to turn metal parts into Ingots and Nuggets. However, it comes at a cost. Rubber, Wood and plastics get turned into Ash, Copper gets turned into Annealed Copper and Iron gets turned into Wrought Iron."
         }
       },
       "tasks:9": {
@@ -9442,7 +9442,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Chemical Bath",
-          "desc:8": " The Advanced Chemical Bath uses Sodium Persulfide and MV power to purify Crushed Ores. It can also undye Glass, Clay and Wood with Chlorine."
+          "desc:8": " The Advanced Chemical Bath uses Sodium Persulfate and MV power to purify Crushed Ores. It can also undye Glass, Clay and Wood with Chlorine."
         }
       },
       "tasks:9": {
@@ -9788,7 +9788,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Sifting Machine",
-          "desc:8": " The Advanced Sifting Machine uses MV power to sift Purified gem Oes in the hopes of getting a better gem."
+          "desc:8": " The Advanced Sifting Machine uses MV power to sift Purified gem Ores in the hopes of getting a better gem."
         }
       },
       "tasks:9": {
@@ -10534,7 +10534,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "A Medium-Sized Transformer",
-          "desc:8": " With a Medium Voltage Transformer you are able to switch between LV and MV power."
+          "desc:8": " With a Medium Voltage Transformer, you are able to switch between LV and MV power."
         }
       },
       "tasks:9": {
@@ -11403,7 +11403,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Pressure Pipes",
-          "desc:8": " One way of transferring items around is with Pressure Pipes. You can\u0027t simply hopper into the system though. For that you\u0027re going to need an Importer, which can import items into the system as fast as it recieves a Redstone signal."
+          "desc:8": " One way of transferring items around is with Pressure Pipes. You can\u0027t simply hopper into the system though. For that you\u0027re going to need an Importer, which can import items into the system as fast as it receives a Redstone signal."
         }
       },
       "tasks:9": {
@@ -12171,7 +12171,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Processors",
-          "desc:8": " You are able to use the Presses, you made, in a Forming Press to make AE2 Circuits and with them Prcessors. However, you are first going to need Silicon. Silicon is obtained by electrolyzing Redstone, Clay and other materials."
+          "desc:8": " You are able to use the Presses, you made, in a Forming Press to make AE2 Circuits and with them Processors. However, you are first going to need Silicon. Silicon is obtained by electrolyzing Redstone, Clay and other materials."
         }
       },
       "tasks:9": {
@@ -12589,7 +12589,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Denser! Smarter!",
-          "desc:8": " The Glass Cables can only transfer 8 channels which isn\u0027t so good for your small ME system. Luckily, you are able to make better Cables. These are the Smart Cables, that transfer 16 channels and the Dense Smart Cables that transfer 32 chaneels, but can\u0027t connect to anything but other Cables. To make both of them, you are first going to need Covered Cables."
+          "desc:8": " The Glass Cables can only transfer 8 channels which isn\u0027t so good for your small ME system. Luckily, you are able to make better Cables. These are the Smart Cables, that transfer 16 channels and the Dense Smart Cables that transfer 32 channels, but can\u0027t connect to anything but other Cables. To make both of them, you are first going to need Covered Cables."
         }
       },
       "tasks:9": {
@@ -13061,7 +13061,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "MV to HV Transformer",
-          "desc:8": " With a High Voltage Transformer you are able to switch between MV and HV power."
+          "desc:8": " With a High Voltage Transformer, you are able to switch between MV and HV power."
         }
       },
       "tasks:9": {
@@ -13130,7 +13130,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Polarizer II",
-          "desc:8": " The Advanced Polzarizer II uses HV power to turn Iron, Steel and Neodynium into their magnetic versions."
+          "desc:8": " The Advanced Polarizer II uses HV power to turn Iron, Steel and Neodymium into their magnetic versions."
         }
       },
       "tasks:9": {
@@ -13431,7 +13431,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Extruder II",
-          "desc:8": " The Advanced Extruder II uses HV power to shape Ingots into many diffferent parts."
+          "desc:8": " The Advanced Extruder II uses HV power to shape Ingots into many different parts."
         }
       },
       "tasks:9": {
@@ -13707,7 +13707,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Sifting Machine II",
-          "desc:8": " The Advanced Sifting Machine II uses HV power to sift Purified gem Oes in the hopes of getting a better gem."
+          "desc:8": " The Advanced Sifting Machine II uses HV power to sift Purified gem Ores in the hopes of getting a better gem."
         }
       },
       "tasks:9": {
@@ -14122,7 +14122,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Arc Furnace II",
-          "desc:8": " The Advanced Arc Furnace II uses Oxygen and HV power to turn metal parts into Ingots and Nuggets. However, it comes at a cost. Rubber, Wood and plastics get turned into Ash, Copper gets turned into Annealed Copper and Iron gets turned into Wrough Iron."
+          "desc:8": " The Advanced Arc Furnace II uses Oxygen and HV power to turn metal parts into Ingots and Nuggets. However, it comes at a cost. Rubber, Wood and plastics get turned into Ash, Copper gets turned into Annealed Copper and Iron gets turned into Wrought Iron."
         }
       },
       "tasks:9": {
@@ -14262,7 +14262,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Chemical Bath II",
-          "desc:8": " The Advanced Chemical Bath II uses Sodium Persulfide and HV power to purify Crushed Ores. It can also undye Glass, Clay and Wood with Chlorine."
+          "desc:8": " The Advanced Chemical Bath II uses Sodium Persulfate and HV power to purify Crushed Ores. It can also undye Glass, Clay and Wood with Chlorine."
         }
       },
       "tasks:9": {
@@ -14332,7 +14332,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Fluid Heater II",
-          "desc:8": " TheAdvanced Fluid Heater II uses HV power to heat up certain fluids."
+          "desc:8": " The Advanced Fluid Heater II uses HV power to heat up certain fluids."
         }
       },
       "tasks:9": {
@@ -15575,7 +15575,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Multi Smelter",
-          "desc:8": " The Multi Smelter is a multiblock structure that allows you to smelt multiple items at a time using power. The amount of items it can smelt at a time depends on the Coils it has."
+          "desc:8": " The Multi Smelter is a multiblock structure that allows you to smelt multiple items at a time using power. The number of items it can smelt at a time depends on the Coils it has."
         }
       },
       "tasks:9": {
@@ -16077,7 +16077,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "WiFi",
-          "desc:8": " You are able to add a Wireless Access Point to your ME system to alllow wireless access to it. You can then link a Wireless Crafting Terminal to it by putting it in your Security Terminal."
+          "desc:8": " You are able to add a Wireless Access Point to your ME system to allow wireless access to it. You can then link a Wireless Crafting Terminal to it by putting it in your Security Terminal."
         }
       },
       "tasks:9": {
@@ -16526,7 +16526,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Titanium Tetrachloride",
-          "desc:8": " Titanium Tetrachloride is needed for making Titanium and can also be used for increasing the yield of your polymeres. To make it, you\u0027re first going to need to electrolyze 39 Bauxite Dust, one of the first materials you obtain, to get Rutile Dust, which you can then combine with Carbon and Chlorine."
+          "desc:8": " Titanium Tetrachloride is needed for making Titanium and can also be used for increasing the yield of your polymers. To make it, you\u0027re first going to need to electrolyze 39 Bauxite Dust, one of the first materials you obtain, to get Rutile Dust, which you can then combine with Carbon and Chlorine."
         }
       },
       "tasks:9": {
@@ -16625,7 +16625,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "HV to EV Transformer",
-          "desc:8": " With a Extreme Voltage Transformer you are able to switch between HV and EV power."
+          "desc:8": " With an Extreme Voltage Transformer, you are able to switch between HV and EV power."
         }
       },
       "tasks:9": {
@@ -16898,7 +16898,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Advanced Extruder III",
-          "desc:8": " The Advanced Extruder III uses EV power to shape Ingots into many diffferent parts."
+          "desc:8": " The Advanced Extruder III uses EV power to shape Ingots into many different parts."
         }
       },
       "tasks:9": {
@@ -17048,7 +17048,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Polarizer III",
-          "desc:8": " The Advanced Polzarizer III uses EV power to turn Iron, Steel and Neodynium into their magnetic versions."
+          "desc:8": " The Advanced Polarizer III uses EV power to turn Iron, Steel and Neodymium into their magnetic versions."
         }
       },
       "tasks:9": {
@@ -17620,7 +17620,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Arc Furnace III",
-          "desc:8": " The Advanced Arc Furnace III uses Oxygen and EV power to turn metal parts into Ingots and Nuggets. However, it comes at a cost. Rubber, Wood and plastics get turned into Ash, Copper gets turned into Annealed Copper and Iron gets turned into Wrough Iron."
+          "desc:8": " The Advanced Arc Furnace III uses Oxygen and EV power to turn metal parts into Ingots and Nuggets. However, it comes at a cost. Rubber, Wood and plastics get turned into Ash, Copper gets turned into Annealed Copper and Iron gets turned into Wrought Iron."
         }
       },
       "tasks:9": {
@@ -18112,7 +18112,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Chemical Bath III",
-          "desc:8": " The Advanced Chemical Bath III uses Sodium Persulfide and EV power to purify Crushed Ores. It can also undye Glass, Clay and Wood with Chlorine."
+          "desc:8": " The Advanced Chemical Bath III uses Sodium Persulfate and EV power to purify Crushed Ores. It can also undye Glass, Clay and Wood with Chlorine."
         }
       },
       "tasks:9": {
@@ -18320,7 +18320,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Sifting Machine III",
-          "desc:8": " The Advanced Sifting Machine III uses EV power to sift Purified gem Oes in the hopes of getting a better gem."
+          "desc:8": " The Advanced Sifting Machine III uses EV power to sift Purified gem Ores in the hopes of getting a better gem."
         }
       },
       "tasks:9": {
@@ -19631,7 +19631,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Coka Oven",
-          "desc:8": " With a multiblock Coke Oven you\u0027ll be able to turn Logs into Charcoal, Coal into Coal Coke and Lignite into Lignite Coke, which are much better fuels. And don\u0027t worry about the Creoste you get as a byproduct, that\u0027s also a great fuel."
+          "desc:8": " With a multiblock Coke Oven you\u0027ll be able to turn Logs into Charcoal, Coal into Coal Coke and Lignite into Lignite Coke, which are much better fuels. And don\u0027t worry about the Creosote you get as a byproduct, that\u0027s also a great fuel."
         }
       },
       "tasks:9": {
@@ -19752,7 +19752,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "A Primitive Circuit",
-          "desc:8": " Now that you have Steel, you are able to make a primitive circuit, a Vacuum Tube. It\u0027s used for making, get this, only one machine! And you know what\u0027s even better? -You\u0027ll probably never make it! It\u0027s also used for making the most basic Basic Circuit, but those are just small details. Anyways, to make one of these bad boys yourself, you are going to need a Glass Tube, some Paper and regular or Fine Copper Wires. The Glass Tube is made with a Ball Mold and Glass Dust in an Shape Smelter, Paper is made with Chad and Stone Slabs, and for making the Wires you are going to need a Wire Cutter."
+          "desc:8": " Now that you have Steel, you are able to make a primitive circuit, a Vacuum Tube. It\u0027s used for making, get this, only one machine! And you know what\u0027s even better? -You\u0027ll probably never make it! It\u0027s also used for making the most basic Basic Circuit, but those are just small details. Anyways, to make one of these bad boys yourself, you are going to need a Glass Tube, some Paper and regular or Fine Copper Wires. The Glass Tube is made with a Ball Mold and Glass Dust in a Shape Smelter, Paper is made with Chad and Stone Slabs, and for making the Wires you are going to need a Wire Cutter."
         }
       },
       "tasks:9": {
@@ -19895,7 +19895,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "The Wither",
-          "desc:8": " With Whichwater you are able to turn Skeletons into Wither Skeletons and Sand into Soul Sand, meaning you can now summon a Wither and kill it to obtain a Nether Star (and probably die in the process).\n\nNote: This quest is a bit of a troll quest as you don\u0027t actually need to kill the Wither for a long time."
+          "desc:8": " With Witchwater you are able to turn Skeletons into Wither Skeletons and Sand into Soul Sand, meaning you can now summon a Wither and kill it to obtain a Nether Star (and probably die in the process).\n\nNote: This quest is a bit of a troll quest as you don\u0027t actually need to kill the Wither for a long time."
         }
       },
       "tasks:9": {
@@ -20108,7 +20108,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "LV Electric Pump",
-          "desc:8": " The LV Electric Pump is a common crafting components for LV machines that use fluids."
+          "desc:8": " The LV Electric Pump is a common crafting component for LV machines that use fluids."
         }
       },
       "tasks:9": {
@@ -20475,7 +20475,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Quantum Chest",
-          "desc:8": " Now that you have Osmium and with it access to Field Generators, you\u0027re able to make a Quantum Chest of whichever tier you desire for storing a large amount of items."
+          "desc:8": " Now that you have Osmium and with it access to Field Generators, you\u0027re able to make a Quantum Chest of whichever tier you desire for storing a large number of items."
         }
       },
       "tasks:9": {
@@ -20613,7 +20613,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "LV Robot Arm",
-          "desc:8": " The LV Robot Arm is used for crafting a few machines, 2 of wihich are some of the most important for progression."
+          "desc:8": " The LV Robot Arm is used for crafting a few machines, 2 of which are some of the most important for progression."
         }
       },
       "tasks:9": {
@@ -21317,7 +21317,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "MV Electric Pump",
-          "desc:8": " The MV Electric Pump is a common crafting components for MV machines that use fluids."
+          "desc:8": " The MV Electric Pump is a common crafting component for MV machines that use fluids."
         }
       },
       "tasks:9": {
@@ -21587,7 +21587,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "MV Robot Arm",
-          "desc:8": " The MV Robot Arm is used for crafting a few MV machines, 2 of wihich are some of the most important for progression."
+          "desc:8": " The MV Robot Arm is used for crafting a few MV machines, 2 of which are some of the most important for progression."
         }
       },
       "tasks:9": {
@@ -21956,7 +21956,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Ethylene",
-          "desc:8": " The Ethylene is a fluid commonly used for making polymeres and rubbers. It can be obtained by either reacting Ethanol and Sulfuric Acid or by distilling one of the many Steam-Cracked outputs of Oil."
+          "desc:8": " The Ethylene is a fluid commonly used for making polymers and rubbers. It can be obtained by either reacting Ethanol and Sulfuric Acid or by distilling one of the many Steam-Cracked outputs of Oil."
         }
       },
       "tasks:9": {
@@ -22061,7 +22061,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Polyethylene",
-          "desc:8": " Polyethylene is one of the simplest and mostly commonly used polymeres. It\u0027s made by combining Ehylene with Air or Oxygen, with the latter giving you a better output."
+          "desc:8": " Polyethylene is one of the simplest and mostly commonly used polymers. It\u0027s made by combining Ethylene with Air or Oxygen, with the latter giving you a better output."
         }
       },
       "tasks:9": {
@@ -22194,7 +22194,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Polystyrene",
-          "desc:8": " Polystyrene is a polymere made by combining Styrene with Air or Oxygen. Styrene itself is made with Benzene and Ethylene."
+          "desc:8": " Polystyrene is a polymer made by combining Styrene with Air or Oxygen. Styrene itself is made with Benzene and Ethylene."
         }
       },
       "tasks:9": {
@@ -22383,7 +22383,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Artificial Glue",
-          "desc:8": " Instead of centrifuging Sticky Resin, you can use a combination of Polyvinyl Acetate and Acetone or Methyl Acetate for making Glue. Polyvinyl Acetate is a polymere, so it\u0027s made with Vinyl Acetate and Air or Oxygen. Vynil Acetate is made with Oxygen, Acetic Acid and Ethylene."
+          "desc:8": " Instead of centrifuging Sticky Resin, you can use a combination of Polyvinyl Acetate and Acetone or Methyl Acetate for making Glue. Polyvinyl Acetate is a polymer, so it\u0027s made with Vinyl Acetate and Air or Oxygen. Vinyl Acetate is made with Oxygen, Acetic Acid and Ethylene."
         }
       },
       "tasks:9": {
@@ -22478,7 +22478,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Polyvinyl Chloride",
-          "desc:8": " Polyvinyl Chloride is a not so commonly used polymere made by combining Vinyl Chloride with Oxygen or Air."
+          "desc:8": " Polyvinyl Chloride is a not so commonly used polymer made by combining Vinyl Chloride with Oxygen or Air."
         }
       },
       "tasks:9": {
@@ -22879,7 +22879,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Processor Assembly",
-          "desc:8": " The Processor Assembly is an upgrade from the Integrated Processor. It\u0027s a advanced Circuit."
+          "desc:8": " The Processor Assembly is an upgrade from the Integrated Processor. It\u0027s an advanced Circuit."
         }
       },
       "tasks:9": {
@@ -23161,7 +23161,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Bisphenol A",
-          "desc:8": " Bisphenol A can be used for making a few Circuit components. It\u0027s made with Phenol, Acetone and Hydrochloric Acid. While there multiple ways to make Phenol, the most efficient way is with Oxygen and Cumene, which can be made with Benzene, Phosphoric Acid and Propene."
+          "desc:8": " Bisphenol A can be used for making a few Circuit components. It\u0027s made with Phenol, Acetone and Hydrochloric Acid. While there are multiple ways to make Phenol, the most efficient way is with Oxygen and Cumene, which can be made with Benzene, Phosphoric Acid and Propene."
         }
       },
       "tasks:9": {
@@ -23854,7 +23854,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "HV Electric Pump",
-          "desc:8": " The HV Electric Pump is a common crafting components for HV machines that use fluids."
+          "desc:8": " The HV Electric Pump is a common crafting component for HV machines that use fluids."
         }
       },
       "tasks:9": {
@@ -23923,7 +23923,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "HV Robot Arm",
-          "desc:8": " The HV Robot Arm is used for crafting a few HV machines, 2 of wihich are some of the most important for progression."
+          "desc:8": " The HV Robot Arm is used for crafting a few HV machines, 2 of which are some of the most important for progression."
         }
       },
       "tasks:9": {
@@ -23996,7 +23996,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Polytetrafluoroethylene",
-          "desc:8": " Polytetrafluoroethylene is a really strong polymere used in many late-game recipes. It\u0027s made with Tetrafluoroethylene and Air or Oxygen. Tetrafluoroethylene is made with Chloroform and Hydrofluoric Acid."
+          "desc:8": " Polytetrafluoroethylene is a really strong polymer used in many late-game recipes. It\u0027s made with Tetrafluoroethylene and Air or Oxygen. Tetrafluoroethylene is made with Chloroform and Hydrofluoric Acid."
         }
       },
       "tasks:9": {
@@ -24541,7 +24541,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Artificial String",
-          "desc:8": " Instead of by killing Spiders, you can obtain String from Polycaprolactam. Unlike the other polymeres, this one is made with Naphtha and Saltpeter, which is obtained by centrifuging Soul Sand."
+          "desc:8": " Instead of by killing Spiders, you can obtain String from Polycaprolactam. Unlike the other polymers, this one is made with Naphtha and Saltpeter, which is obtained by centrifuging Soul Sand."
         }
       },
       "tasks:9": {
@@ -24627,7 +24627,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Rocket Fuel",
-          "desc:8": " Roket Fuel is a really good Gas Turbine fuel and making it the less efficient way only requires Air and Water, which you have infinite amounts of."
+          "desc:8": " Rocket Fuel is a really good Gas Turbine fuel and making it the less efficient way only requires Air and Water, which you have infinite amounts of."
         }
       },
       "tasks:9": {
@@ -24795,7 +24795,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Osmium",
-          "desc:8": " Your Electric Blast Furnace can now reach the correct temperature for making Osmium. Osmium is used for making Field Generators, which are used for making Mass Fabricators, Replicators and Naquadah Reactors. T obtain the Dust, you are going to need to thermal centrifuge Iridium Ore."
+          "desc:8": " Your Electric Blast Furnace can now reach the correct temperature for making Osmium. Osmium is used for making Field Generators, which are used for making Mass Fabricators, Replicators and Naquadah Reactors. To obtain the Dust, you are going to need to thermal centrifuge Iridium Ore."
         }
       },
       "tasks:9": {
@@ -25678,7 +25678,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "EV Electric Pump",
-          "desc:8": " The EV Electric Pump is a common crafting components for EV machines that use fluids."
+          "desc:8": " The EV Electric Pump is a common crafting component for EV machines that use fluids."
         }
       },
       "tasks:9": {
@@ -25972,7 +25972,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "EV Robot Arm",
-          "desc:8": " The EV Robot Arm is used for crafting a few EV machines, 2 of wihich are some of the most important for progression."
+          "desc:8": " The EV Robot Arm is used for crafting a few EV machines, 2 of which are some of the most important for progression."
         }
       },
       "tasks:9": {
@@ -26944,7 +26944,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Polyphenylene Sulfide",
-          "desc:8": " Polyphenylene Sulfide is a polymere that you\u0027ll be able to use as a substite for metal Foils in the recipes for EV+ Cables. It\u0027s made with Dichlorobenzene, Sodium Sulfide and Air or Oxygen."
+          "desc:8": " Polyphenylene Sulfide is a polymer that you\u0027ll be able to use as a substitute for metal Foils in the recipes for EV+ Cables. It\u0027s made with Dichlorobenzene, Sodium Sulfide and Air or Oxygen."
         }
       },
       "tasks:9": {
@@ -27181,7 +27181,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Everything You Need To Know About: Steam Machines",
-          "desc:8": " Boilers auto-output Steam to adjacent machines or fluid containers on every side except the bottom.\n\n If the heat bar fills up and there is no Water in the Boiler, it will explode.\n\n For Steam machines to work continuosly, they need to exhaust Steam after every recipe. For that to be done, the side on which there\u0027s a black dot needs to have nothing placed on it.\n\n You can rotate the exhaust side with a Wrench."
+          "desc:8": " Boilers auto-output Steam to adjacent machines or fluid containers on every side except the bottom.\n\n If the heat bar fills up and there is no Water in the Boiler, it will explode.\n\n For Steam machines to work continuously, they need to exhaust Steam after every recipe. For that to be done, the side on which there\u0027s a black dot needs to have nothing placed on it.\n\n You can rotate the exhaust side with a Wrench."
         }
       },
       "tasks:9": {
@@ -27232,7 +27232,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Everything You Need To Know About: Electric Machines",
-          "desc:8": " The Generators output power on only one side, represented with a shiny white dot.\n\n Machines can auto-output items or fluids on the side represented with a hatch. You can choose whether to auto-output items or fluids by pressing the box-shaped buttons, with the grey one being items and the orange one being fluids.\n\n If a recipe that requires a lower voltage tier is done in a machine that\u0027s a higher tier, it will be overclocked, meaning 4 times more (scaling with the tier diffrence) EU/t is used, 2 times less time is needed for the recipe to be done and if there are byproducts, the chance of obtaining them doubles.\n\n Cables transfer power in the form of voltage and amps. An amp is a packet and the voltage is the size of the packet.\n\n If a machine has insufficient power, it will slowly lose progress. Once the bar is fully empty, you pretty much wasted the inputs."
+          "desc:8": " The Generators output power on only one side, represented with a shiny white dot.\n\n Machines can auto-output items or fluids on the side represented with a hatch. You can choose whether to auto-output items or fluids by pressing the box-shaped buttons, with the grey one being items and the orange one being fluids.\n\n If a recipe that requires a lower voltage tier is done in a machine that\u0027s a higher tier, it will be overclocked, meaning 4 times more (scaling with the tier difference) EU/t is used, 2 times less time is needed for the recipe to be done and if there are byproducts, the chance of obtaining them doubles.\n\n Cables transfer power in the form of voltage and amps. An amp is a packet and the voltage is the size of the packet.\n\n If a machine has insufficient power, it will slowly lose progress. Once the bar is fully empty, you pretty much wasted the inputs."
         }
       },
       "tasks:9": {
@@ -27480,7 +27480,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Nuclear Fission",
-          "desc:8": " The Fission Reactor from NuclearCraft is a cuboid multiblock structure consisting of Casings on the outside, and Cells, for storing fuels, Coolers, for decreasing heat, and Boron or Graphite Blocks, for increasing efficiency and heat, on the inside. You simply put a Fuel in and over time it will generate EU and RF and deplete the Fuel, which you\u0027ll then be able to thermal centrifuge in order to get some new materials. You can use a Comparator in the way that if there\u0027s a heat gain the signal will depend on the amount of heat it has and if not it will depend on the amount of power it has stored."
+          "desc:8": " The Fission Reactor from NuclearCraft is a cuboid multiblock structure consisting of Casings on the outside, and Cells, for storing fuels, Coolers, for decreasing heat, and Boron or Graphite Blocks, for increasing efficiency and heat, on the inside. You simply put a Fuel in and over time it will generate EU and RF and deplete the Fuel, which you\u0027ll then be able to thermal centrifuge in order to get some new materials. You can use a Comparator in the way that if there\u0027s a heat gain the signal will depend on the amount of heat it has and if not, it will depend on the amount of power it has stored."
         }
       },
       "tasks:9": {
@@ -28179,7 +28179,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Fiber-Reinforced Epoxy",
-          "desc:8": " Well, you made the Epoxy Board, but for the Circuits after the ones that require the Epoxy Board, you are going to need a Fiber-Reinforced Board, so why not automate that too? You can never be too prepared. While Fiber-Reinforced Board can be made with Carbon Fibers and Epoxy, it\u0027s more efficiently made with Glass Fibers and Epoxy. Glass Fibers are made wth Borosilicate Glass, which is made with Boron and Glass Dust. Boron can be obtained by centrifuging Borax or crushing Centrifuged Lepidolite Ore."
+          "desc:8": " Well, you made the Epoxy Board, but for the Circuits after the ones that require the Epoxy Board, you are going to need a Fiber-Reinforced Board, so why not automate that too? You can never be too prepared. While Fiber-Reinforced Board can be made with Carbon Fibers and Epoxy, it\u0027s more efficiently made with Glass Fibers and Epoxy. Glass Fibers are made with Borosilicate Glass, which is made with Boron and Glass Dust. Boron can be obtained by centrifuging Borax or crushing Centrifuged Lepidolite Ore."
         }
       },
       "tasks:9": {
@@ -28317,7 +28317,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Reinforced Glass",
-          "desc:8": " Reinforced Glass is more blast-proof than regular Glass and is used for making high tier machine. It\u0027s made with Advanced Alloy Plates, which are made by compressing Mixed Metal Ingots. Mixed Metal Ingots are made with different metal Plate combinations that yield different outputs. Why am I telling you this now? So you\u0027re prepared for the future!"
+          "desc:8": " Reinforced Glass is more blast-proof than regular Glass and is used for making high tier machine. It\u0027s made with Advanced Alloy Plates, which are made by compressing Mixed Metal Ingots. Mixed Metal Ingots are made with different metal Plate combinations that yield different outputs. Why am I telling you this now? So, you\u0027re prepared for the future!"
         }
       },
       "tasks:9": {
@@ -28908,7 +28908,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Arc Furnace IV",
-          "desc:8": " The Advanced Arc Furnace IV uses Oxygen and IV power to turn metal parts into Ingots and Nuggets. However, it comes at a cost. Rubber, Wood and plastics get turned into Ash, Copper gets turned into Annealed Copper and Iron gets turned into Wrough Iron."
+          "desc:8": " The Advanced Arc Furnace IV uses Oxygen and IV power to turn metal parts into Ingots and Nuggets. However, it comes at a cost. Rubber, Wood and plastics get turned into Ash, Copper gets turned into Annealed Copper and Iron gets turned into Wrought Iron."
         }
       },
       "tasks:9": {
@@ -29058,7 +29058,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Transformers Going Insane",
-          "desc:8": " The Insane Voltage Transformer is able to turn EV power into IV power and vise versa."
+          "desc:8": " The Insane Voltage Transformer is able to turn EV power into IV power and vice versa."
         }
       },
       "tasks:9": {
@@ -29718,7 +29718,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "IV Electric Pump",
-          "desc:8": " The IV Electric Pump is a common crafting components for IV machines that use fluids."
+          "desc:8": " The IV Electric Pump is a common crafting component for IV machines that use fluids."
         }
       },
       "tasks:9": {
@@ -31094,8 +31094,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Superconducter Coils",
-          "desc:8": " Superconducter Coils allow you to make any Ingot in your Electric Blast Furnace."
+          "name:8": "Superconducting Coils",
+          "desc:8": " Superconducting Coils allow you to make any Ingot in your Electric Blast Furnace."
         }
       },
       "tasks:9": {
@@ -31304,7 +31304,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Advanced Assembling Machine IV",
-          "desc:8": " The Advanced Aeembling Machine IV uses IV power to automatically craft items that take up to 4 different inputs. It\u0027s mainly used for Cables."
+          "desc:8": " The Advanced Assembling Machine IV uses IV power to automatically craft items that take up to 4 different inputs. It\u0027s mainly used for Cables."
         }
       },
       "tasks:9": {
@@ -32793,7 +32793,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Fusion Coils",
-          "desc:8": " Before you get into Fusion Reactors, you are going to need Fusion Coils. They\u0027re made with master Circuits, MV Field Generators, Neutron Reflectors and Superconducter Coils. The Neutron Reflectors are the most expensive part, requiring an Iridium Alloy Plate, 3 Tungsten Carbide, an alloy of Tungsten and Carbon, 30 Beryllium and a whole lot of Tin Alloy. And that\u0027s only for one."
+          "desc:8": " Before you get into Fusion Reactors, you are going to need Fusion Coils. They\u0027re made with master Circuits, MV Field Generators, Neutron Reflectors and Superconducting Coils. The Neutron Reflectors are the most expensive part, requiring an Iridium Alloy Plate, 3 Tungsten Carbide, an alloy of Tungsten and Carbon, 30 Beryllium and a whole lot of Tin Alloy. And that\u0027s only for one."
         }
       },
       "tasks:9": {
@@ -33598,7 +33598,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Repurposed Laundry Washer I-440",
-          "desc:8": " The Repurposed Laundry Washer, also know as the Advanced Ore Washing Plant IV, is used for turning Crushed Ores into Purified ones."
+          "desc:8": " The Repurposed Laundry Washer, also known as the Advanced Ore Washing Plant IV, is used for turning Crushed Ores into Purified ones."
         }
       },
       "tasks:9": {
@@ -35692,7 +35692,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Crystal CPU",
-          "desc:8": " For making the top tier Circuits you are going to need Crystal Processing Units. They\u0027re made by engraving Engraved Crystal Chips, which are made with Raw Crystal Chips, Helium and Emerald or Olivine Plates in a Blast Furnace. The Engraved Crystal Chips are made in a Autoclave with Exquisite Olivines or Emeralds, and Europium. They take some time to make and you only have a 10% chance of making them, but luckly you need only one and then you\u0027ll be able to cut your Crystal Processing Units to make more."
+          "desc:8": " For making the top tier Circuits you are going to need Crystal Processing Units. They\u0027re made by engraving Engraved Crystal Chips, which are made with Raw Crystal Chips, Helium and Emerald or Olivine Plates in a Blast Furnace. The Engraved Crystal Chips are made in an Autoclave with Exquisite Olivines or Emeralds, and Europium. They take some time to make and you only have a 10% chance of making them, but luckily you need only one and then you\u0027ll be able to cut your Crystal Processing Units to make more."
         }
       },
       "tasks:9": {
@@ -36707,7 +36707,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "HSS-E",
-          "desc:8": " HSS-E is an alloys of HSS-G, Manganese, Silicon and Cobalt, used for making ZPM machine components."
+          "desc:8": " HSS-E is an alloy of HSS-G, Manganese, Silicon and Cobalt, used for making ZPM machine components."
         }
       },
       "tasks:9": {
@@ -38489,7 +38489,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "A Pointy Transformer",
-          "desc:8": " The ZPM Transformer is able to turn LuV power into ZPM power and vise versa."
+          "desc:8": " The ZPM Transformer is able to turn LuV power into ZPM power and vice versa."
         }
       },
       "tasks:9": {
@@ -38569,8 +38569,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Ludicrous Tranformers",
-          "desc:8": " The Ludicrous Transformer is able to turn IV power into LuV power and vise versa."
+          "name:8": "Ludicrous Transformers",
+          "desc:8": " The Ludicrous Transformer is able to turn IV power into LuV power and vice versa."
         }
       },
       "tasks:9": {
@@ -38890,7 +38890,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Ultimate Transformers",
-          "desc:8": " The Ultimate Transformer is able to turn ZPM power into UV power and vise versa."
+          "desc:8": " The Ultimate Transformer is able to turn ZPM power into UV power and vice versa."
         }
       },
       "tasks:9": {
@@ -41622,7 +41622,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "The Best Bath In The World",
-          "desc:8": " The Advanced Chemical Bath VII is the best Chemival Bath in the game."
+          "desc:8": " The Advanced Chemical Bath VII is the best Chemical Bath in the game."
         }
       },
       "tasks:9": {
@@ -43155,7 +43155,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Time Sure Flies",
-          "desc:8": " The Advanced Fermenter VII is the best Fermentr in the game."
+          "desc:8": " The Advanced Fermenter VII is the best Fermenter in the game."
         }
       },
       "tasks:9": {
@@ -45861,7 +45861,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Advanced Brewry VI",
+          "name:8": "Advanced Brewery VI",
           "desc:8": " The Advanced Brewery VI uses ZPM power to brew Potions."
         }
       },
@@ -49688,8 +49688,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Advanced Polarizor V",
-          "desc:8": " The Advanced Polarizor V uses LuV power to turn Iron, Steel and Neodymium components into their Magnetic versions."
+          "name:8": "Advanced Polarizer V",
+          "desc:8": " The Advanced Polarizer V uses LuV power to turn Iron, Steel and Neodymium components into their Magnetic versions."
         }
       },
       "tasks:9": {
@@ -50362,8 +50362,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Advanced Polarizor VI",
-          "desc:8": " The Advanced Polarizor ZPM uses ZPM power to turn Iron, Steel and Neodymium metal components into heir Magnetic versions."
+          "name:8": "Advanced Polarizer VI",
+          "desc:8": " The Advanced Polarizer ZPM uses ZPM power to turn Iron, Steel and Neodymium metal components into their Magnetic versions."
         }
       },
       "tasks:9": {
@@ -52033,7 +52033,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Going Up",
-          "desc:8": " Instead of having to walk up Stairs or Ladders, you can now make a simple Elevator. For it to run it just needs a cconstant supply of pressure, but that shouldn\u0027t be a problem for you."
+          "desc:8": " Instead of having to walk up Stairs or Ladders, you can now make a simple Elevator. For it to run it just needs a constant supply of pressure, but that shouldn\u0027t be a problem for you."
         }
       },
       "tasks:9": {
@@ -52098,7 +52098,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Drones",
-          "desc:8": " You can make Drones and program them to do a plethera of things. They just need some pressure to function."
+          "desc:8": " You can make Drones and program them to do a plethora of things. They just need some pressure to function."
         }
       },
       "tasks:9": {
@@ -52248,7 +52248,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Signing Into The Dark Web",
-          "desc:8": " The Amardon Tablet lets you trade Oil and Diesel for Doge Coins, with which you can buy some items."
+          "desc:8": " The Amadron Tablet lets you trade Oil and Diesel for Doge Coins, with which you can buy some items."
         }
       },
       "tasks:9": {
@@ -52685,7 +52685,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Everything You Need To Know About: Quests",
-          "desc:8": " Many quests have multiple tasks that you switch between using the arrows next to the detect button.\n\n Quests that have rounded square icons are needed for progressing to higher tiers, while the ones with circular icons are mainly quality of life quests.\n\n In this pack you get Credits that can be spent in the shop for purchasing crafting components from regular quests and Trophies for beginning ages. Optional quests give more Credits.\n\n Items in your inventory are checked every 3 seconds, so wait at least 3s to make sure something is detected before using it up.\n\n If you complete a quest before it\u0027s unlocked, you\u0027ll need to press the detect button.\n\n Fluids tasks require you to have all fluids in your inventory at the same time.\n\n Ages related to GregTech have positive numbers and ages related to other mods have negative nubers."
+          "desc:8": " Many quests have multiple tasks that you switch between using the arrows next to the detect button.\n\n Quests that have rounded square icons are needed for progressing to higher tiers, while the ones with circular icons are mainly quality of life quests.\n\n In this pack you get Credits that can be spent in the shop for purchasing crafting components from regular quests and Trophies for beginning ages. Optional quests give more Credits.\n\n Items in your inventory are checked every 3 seconds, so wait at least 3s to make sure something is detected before using it up.\n\n If you complete a quest before it\u0027s unlocked, you\u0027ll need to press the detect button.\n\n Fluids tasks require you to have all fluids in your inventory at the same time.\n\n Ages related to GregTech have positive numbers and ages related to other mods have negative numbers."
         }
       },
       "tasks:9": {
@@ -52898,7 +52898,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Manual Power Generation",
-          "desc:8": " You can wynd up the Clockwork Engine and it\u0027ll start generating RF."
+          "desc:8": " You can wind up the Clockwork Engine and it\u0027ll start generating RF."
         }
       },
       "tasks:9": {
@@ -53595,7 +53595,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "A Large Automated Farm",
-          "desc:8": " You can make a multiblock Farm that uses RF, Water, Dirt and Fertilizer to auomatically plant and harvest crops and trees. It needs to be at least a 3x4x3 and it needs to have a platform to place Dirt on the top layer."
+          "desc:8": " You can make a multiblock Farm that uses RF, Water, Dirt and Fertilizer to automatically plant and harvest crops and trees. It needs to be at least a 3x4x3 and it needs to have a platform to place Dirt on the top layer."
         }
       },
       "tasks:9": {
@@ -53768,7 +53768,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Water Bees",
-          "desc:8": " To obtain Water Bees, you are going to need Lilyy Pads. They can be obtained by fishing."
+          "desc:8": " To obtain Water Bees, you are going to need Lily Pads. They can be obtained by fishing."
         }
       },
       "tasks:9": {
@@ -53888,7 +53888,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Tropical Bees",
-          "desc:8": " In order to obtain Tropical Bees you are going to need Vines. Vines can be obtained from large jungle trees."
+          "desc:8": " In order to obtain Tropical Bees, you are going to need Vines. Vines can be obtained from large jungle trees."
         }
       },
       "tasks:9": {
@@ -54614,7 +54614,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Changing Up The Heat",
-          "desc:8": " Some Bees need colder or hotter temperatures than you can provide. Using the Acclimitiser you can change the Bees\u0027 temperature requirements."
+          "desc:8": " Some Bees need colder or hotter temperatures than you can provide. Using the Acclimatiser you can change the Bees\u0027 temperature requirements."
         }
       },
       "tasks:9": {
@@ -54905,7 +54905,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Usable Genes",
-          "desc:8": " Using Empty Serum Viles you can select genes from your Gene Database and then with the Polymerizer you can make tem usable."
+          "desc:8": " Using Empty Serum Vials, you can select genes from your Gene Database and then with the Polymeriser you can make them usable."
         }
       },
       "tasks:9": {
@@ -55108,7 +55108,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Splicer",
-          "desc:8": " The Splicer can add Genes to eisting Bees, but takes a lot of power."
+          "desc:8": " The Splicer can add Genes to existing Bees, but takes a lot of power."
         }
       },
       "tasks:9": {
@@ -55178,7 +55178,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Everything You Need To Know About: Bees",
-          "desc:8": " Bees in this pack are completely optional.\n\n There are 2 types of resource Bees:\n\n Binnie\u0027s Mods Bees that make Combs which can be directly centrifuged into resources.\n\n GTCE Bees Bees that make Combs which can be used to quadruple Ores and get some extra fluids outputs."
+          "desc:8": " Bees in this pack are completely optional.\n\n There are 2 types of resource Bees:\n\n Binnie\u0027s Mods Bees that make Combs which can be directly centrifuged into resources.\n\n GTCE Bees that make Combs which can be used to quadruple Ores and get some extra fluids outputs."
         }
       },
       "tasks:9": {
@@ -55230,7 +55230,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Everything You Need To Know About: Circuits",
-          "desc:8": " Most tiers have multiple Circuits.\n\n Circuits come in sets containing a Proceesor, Processor Assembly, Computer and Mainframe, with every one being of a higher power tier and requiring 2 of the previous one."
+          "desc:8": " Most tiers have multiple Circuits.\n\n Circuits come in sets containing a Processor, Processor Assembly, Computer and Mainframe, with every one being of a higher power tier and requiring 2 of the previous one."
         }
       },
       "tasks:9": {
@@ -55492,7 +55492,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Basic Voltaic Pile",
-          "desc:8": " The Basic Voltaic Pile lets you store EU without you having to worry about Batteries and it also simultaniously stores RF, letting you convert between the 2."
+          "desc:8": " The Basic Voltaic Pile lets you store EU without you having to worry about Batteries and it also simultaneously stores RF, letting you convert between the 2."
         }
       },
       "tasks:9": {
@@ -56060,7 +56060,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Automating The Oven",
-          "desc:8": " You can keep your Coke Oven manual, but if you want to, you can automate it quite simply. You can replace any Coke Oven Bricks block with a Coke Oven Faucet that wll automatically output Creosote or with a Coke Oven Chute that will automatically output the item output. For them to function, you\u0027re going to need to place them before placing the Controller."
+          "desc:8": " You can keep your Coke Oven manual, but if you want to, you can automate it quite simply. You can replace any Coke Oven Bricks block with a Coke Oven Faucet that will automatically output Creosote or with a Coke Oven Chute that will automatically output the item output. For them to function, you\u0027re going to need to place them before placing the Controller."
         }
       },
       "tasks:9": {
@@ -56262,7 +56262,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Cover me in Covers",
-          "desc:8": " The Flint Multipart Saw will allow you to cut a block into smaller and smaller pieces. You can use those peices for separating GregTech Pipes and Cables."
+          "desc:8": " The Flint Multipart Saw will allow you to cut a block into smaller and smaller pieces. You can use those pieces for separating GregTech Pipes and Cables."
         }
       },
       "tasks:9": {
@@ -56728,7 +56728,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Everything You Need To Know About: GT Tools",
-          "desc:8": " In this pack you\u0027re able to make GT and Tinkers\u0027 tools.\n\n The GT tools are the more vaniila-esque of the 2, meaning they can be enchanted and repaired in an Anvil.\n\n The quests that require you to make a tool don\u0027t require you to make it from that specific material.\n\n The material the head is made of determines a tools\u0027 stats.\n\n For default recipes JEI will display the Darmstadtium version and for custom recipes it will display the Aluminium version, however, unless it\u0027s anything else, you can use any version of that tool in the recipe.\n\n Many tools have electric versions that get repaired in Battery Chargers. However, they can still break, unpon which you\u0027ll get a Tool Box containing some of the items used to craft them."
+          "desc:8": " In this pack you\u0027re able to make GT and Tinkers\u0027 tools.\n\n The GT tools are the more vanilla-esque of the 2, meaning they can be enchanted and repaired in an Anvil.\n\n The quests that require you to make a tool don\u0027t require you to make it from that specific material.\n\n The material the head is made of determines a tools\u0027 stats.\n\n For default recipes JEI will display the Darmstadtium version and for custom recipes it will display the Aluminium version, however, unless it\u0027s anything else, you can use any version of that tool in the recipe.\n\n Many tools have electric versions that get repaired in Battery Chargers. However, they can still break, upon which you\u0027ll get a Tool Box containing some of the items used to craft them."
         }
       },
       "tasks:9": {
@@ -57169,7 +57169,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Energy Crystal",
-          "desc:8": " Aside fom Large Batteries, HV Battery Buffers can also hold Energy Crystals."
+          "desc:8": " Aside from Large Batteries, HV Battery Buffers can also hold Energy Crystals."
         }
       },
       "tasks:9": {
@@ -67234,7 +67234,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Item Collector",
-          "desc:8": " The Advanced Item Collector uses MV power to collect items in a 8x8 area."
+          "desc:8": " The Advanced Item Collector uses MV power to collect items in an 8x8 area."
         }
       },
       "tasks:9": {
@@ -67880,7 +67880,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Good Voltaic Pile",
-          "desc:8": " The Good Voltaic Pile lets you store EU without you having to worry about Batteries and it also simultaniously stores RF, letting you convert between the 2."
+          "desc:8": " The Good Voltaic Pile lets you store EU without you having to worry about Batteries and it also simultaneously stores RF, letting you convert between the 2."
         }
       },
       "tasks:9": {
@@ -67959,7 +67959,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Voltaic Pile",
-          "desc:8": " The Advanced Voltaic Pile lets you store EU without you having to worry about Batteries and it also simultaniously stores RF, letting you convert between the 2."
+          "desc:8": " The Advanced Voltaic Pile lets you store EU without you having to worry about Batteries and it also simultaneously stores RF, letting you convert between the 2."
         }
       },
       "tasks:9": {
@@ -68038,7 +68038,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Energy Cell",
-          "desc:8": " The Advanced Energy Cell lets you store EU without you having to worry about Energy Crystals and it also simultaniously stores RF, letting you convert between the 2."
+          "desc:8": " The Advanced Energy Cell lets you store EU without you having to worry about Energy Crystals and it also simultaneously stores RF, letting you convert between the 2."
         }
       },
       "tasks:9": {
@@ -68118,7 +68118,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Extreme Energy Cell",
-          "desc:8": " The Extreme Energy Cell lets you store EU without you having to worry about lapotron Energy Crystals and it also simultaniously stores RF, letting you convert between the 2."
+          "desc:8": " The Extreme Energy Cell lets you store EU without you having to worry about Lapotron Energy Crystals and it also simultaneously stores RF, letting you convert between the 2."
         }
       },
       "tasks:9": {
@@ -68197,7 +68197,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Insane Energy Cell",
-          "desc:8": " The Insane Energy Cell lets you store EU without you having to worry about Lapotron Energy Orbs and it also simultaniously stores RF, letting you convert between the 2."
+          "desc:8": " The Insane Energy Cell lets you store EU without you having to worry about Lapotronic Energy Orbs and it also simultaneously stores RF, letting you convert between the 2."
         }
       },
       "tasks:9": {
@@ -68282,7 +68282,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Ludicrous Energy Cell",
-          "desc:8": " The Ludicrous Energy Cell lets you store EU without you having to worry about Lapotron Energy Orb Clusters and it also simultaniously stores RF, letting you convert between the 2."
+          "desc:8": " The Ludicrous Energy Cell lets you store EU without you having to worry about Lapotronic Energy Orb Clusters and it also simultaneously stores RF, letting you convert between the 2."
         }
       },
       "tasks:9": {
