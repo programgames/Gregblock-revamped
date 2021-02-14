@@ -10,12 +10,12 @@ I will fix them as fast as possible.
 Changelog:
 - Update most of mods
 - Add [Schematica](https://www.curseforge.com/minecraft/mc-mods/schematica)
-- Update GregTechCE to 1.9
+- Update GregTechCE to 1.11
 - Add [OpenComputers](https://www.curseforge.com/minecraft/mc-mods/opencomputers)
 - Add [AE2 Fluid Crafting](https://www.curseforge.com/minecraft/mc-mods/ae2-fluid-crafting)
 - Add charger from AE2 to charge wireless crafting terminal (fix of [GregBlock/#172](https://github.com/TheLimePixel/GregBlock/issues/172))
 - Fix multiple bugs
-- GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.9.
+- GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.11.
 
 Installation: 
 - Open the zip file in your favorite launcher
