@@ -2884,7 +2884,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Tier 2 Sifting",
-          "desc:8": " The Tin Alloy Mesh gives you access to a new new materials, including Redstone, Rubies, Sapphires Topaz, Lead, Silver and Lapis. It also gives you more Copper."
+          "desc:8": " The Tin Alloy Mesh gives you access to a new materials, including Redstone, Rubies, Sapphires Topaz, Lead, Silver and Lapis. It also gives you more Copper."
         }
       },
       "tasks:9": {
@@ -5313,7 +5313,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Basic Shape Smelter",
-          "desc:8": " The Shape Shape Smelter uses LV power to shape materials into certain shapes."
+          "desc:8": " The Basic Shape Smelter uses LV power to shape materials into certain shapes."
         }
       },
       "tasks:9": {
@@ -55178,7 +55178,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Everything You Need To Know About: Bees",
-          "desc:8": " Bees in this pack are completely optional.\n\n There are 2 types of resource Bees:\n\n Binnie\u0027s Mods Bees that make Combs which can be directly centrifuged into resources.\n\n GTCE Bees Bees that make Combs which can be used to quadruple Ores and get some extra fluids outputs."
+          "desc:8": " Bees in this pack are completely optional.\n\n There are 2 types of resource Bees:\n\n Binnie\u0027s Mods Bees that make Combs which can be directly centrifuged into resources.\n\n GTCE Bees that make Combs which can be used to quadruple Ores and get some extra fluids outputs."
         }
       },
       "tasks:9": {
