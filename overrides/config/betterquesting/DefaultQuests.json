@@ -6401,7 +6401,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Basic Polarizer",
-          "desc:8": " The Basic Polarizer uses LV power to turn Iron, Steel and Neodynium into their magnetic versions."
+          "desc:8": " The Basic Polarizer uses LV power to turn Iron, Steel and Neodymium into their magnetic versions."
         }
       },
       "tasks:9": {
@@ -6926,7 +6926,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Lube",
-          "desc:8": " Lubricant is the most efficient lubricant in the Cutting Machine and is used in almost all Assembly Line recipes (thought you\u0027re really far from making that multiblock). Even thought it can be made in the Distillery, it\u0027s most efficiently made in the Mixer, bu combining Oil, Seed Oil or Creosote Oil with Talc, Soapstone or Redstone Dust."
+          "desc:8": " Lubricant is the most efficient lubricant in the Cutting Machine and is used in almost all Assembly Line recipes (thought you\u0027re really far from making that multiblock). Even thought it can be made in the Distillery, it\u0027s most efficiently made in the Mixer, by combining Oil, Seed Oil or Creosote Oil with Talc, Soapstone or Redstone Dust."
         }
       },
       "tasks:9": {
@@ -8321,7 +8321,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Polarizer",
-          "desc:8": " The Advanced Polarizer uses MV power to turn Iron, Steel and Neodynium into their magnetic versions."
+          "desc:8": " The Advanced Polarizer uses MV power to turn Iron, Steel and Neodymium into their magnetic versions."
         }
       },
       "tasks:9": {
@@ -17048,7 +17048,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Polarizer III",
-          "desc:8": " The Advanced Polzarizer III uses EV power to turn Iron, Steel and Neodynium into their magnetic versions."
+          "desc:8": " The Advanced Polarizer III uses EV power to turn Iron, Steel and Neodymium into their magnetic versions."
         }
       },
       "tasks:9": {
@@ -22061,7 +22061,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Polyethylene",
-          "desc:8": " Polyethylene is one of the simplest and mostly commonly used polymeres. It\u0027s made by combining Ehylene with Air or Oxygen, with the latter giving you a better output."
+          "desc:8": " Polyethylene is one of the simplest and mostly commonly used polymeres. It\u0027s made by combining Ethylene with Air or Oxygen, with the latter giving you a better output."
         }
       },
       "tasks:9": {
