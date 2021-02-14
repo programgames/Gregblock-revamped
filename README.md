@@ -1,7 +1,7 @@
 # GregBlock Revamped
 
 
-Welcome, gregblock players, I am glad to announce the new version of Gregblock.
+Welcome, GregBlock players, I am glad to announce the new version of Gregblock.
 
 If you have any questions, please create a ticket here: https://github.com/programgames/Gregblock-revamped/issues  
 I will fix them as fast as possible.
