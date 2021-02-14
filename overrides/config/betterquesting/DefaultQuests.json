@@ -223,7 +223,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Age 0 - The Manual Age",
-          "desc:8": " Welcome to GregBlock! To begin with the Manual Age you are going to need to get 2 Logs from the tree on your island and make a Crafting Table. Yup, 2. This, my friend, is GregTech.\n\n If you\u0027re playing on multiplayer and want to join someone else, do /island for information on how to do that."
+          "desc:8": " Welcome to GregBlock! To begin with the Manual Age, you are going to need to get 2 Logs from the tree on your island and make a Crafting Table. Yup, 2. This, my friend, is GregTech.\n\n If you\u0027re playing on multiplayer and want to join someone else, do /island for information on how to do that."
         }
       },
       "tasks:9": {
@@ -2127,7 +2127,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Bukkit",
-          "desc:8": " For carrying around fluids, you are going to need a Bucket. Now, you know how a Bucket is Curved? Well, to make it you are going to need to curve some Plates with a Bending Cylinder. Sure, you could have also made a Clay Bucket, but that doesnt quite work on hot fluids, so you\u0027re better off making an Iron one."
+          "desc:8": " For carrying around fluids, you are going to need a Bucket. Now, you know how a Bucket is Curved? Well, to make it you are going to need to curve some Plates with a Bending Cylinder. Sure, you could have also made a Clay Bucket, but that doesn't quite work on hot fluids, so you\u0027re better off making an Iron one."
         }
       },
       "tasks:9": {
@@ -2884,7 +2884,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Tier 2 Sifting",
-          "desc:8": " The Tin Alloy Mesh gives you access to a new materials, including Redstone, Rubies, Sapphires Topaz, Lead, Silver and Lapis. It also gives you more Copper."
+          "desc:8": " The Tin Alloy Mesh gives you access to new materials, including Redstone, Rubies, Sapphires Topaz, Lead, Silver and Lapis. It also gives you more Copper."
         }
       },
       "tasks:9": {
@@ -6926,7 +6926,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Lube",
-          "desc:8": " Lubricant is the most efficient lubricant in the Cutting Machine and is used in almost all Assembly Line recipes (thought you\u0027re really far from making that multiblock). Even thought it can be made in the Distillery, it\u0027s most efficiently made in the Mixer, by combining Oil, Seed Oil or Creosote Oil with Talc, Soapstone or Redstone Dust."
+          "desc:8": " Lubricant is the most efficient lubricant in the Cutting Machine and is used in almost all Assembly Line recipes (thought you\u0027re really far from making that multiblock). Even though it can be made in the Distillery, it\u0027s most efficiently made in the Mixer, by combining Oil, Seed Oil or Creosote Oil with Talc, Soapstone or Redstone Dust."
         }
       },
       "tasks:9": {
@@ -9788,7 +9788,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Sifting Machine",
-          "desc:8": " The Advanced Sifting Machine uses MV power to sift Purified gem Oes in the hopes of getting a better gem."
+          "desc:8": " The Advanced Sifting Machine uses MV power to sift Purified gem Ores in the hopes of getting a better gem."
         }
       },
       "tasks:9": {
@@ -10534,7 +10534,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "A Medium-Sized Transformer",
-          "desc:8": " With a Medium Voltage Transformer you are able to switch between LV and MV power."
+          "desc:8": " With a Medium Voltage Transformer, you are able to switch between LV and MV power."
         }
       },
       "tasks:9": {
@@ -13061,7 +13061,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "MV to HV Transformer",
-          "desc:8": " With a High Voltage Transformer you are able to switch between MV and HV power."
+          "desc:8": " With a High Voltage Transformer, you are able to switch between MV and HV power."
         }
       },
       "tasks:9": {
@@ -13707,7 +13707,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Sifting Machine II",
-          "desc:8": " The Advanced Sifting Machine II uses HV power to sift Purified gem Oes in the hopes of getting a better gem."
+          "desc:8": " The Advanced Sifting Machine II uses HV power to sift Purified gem Ores in the hopes of getting a better gem."
         }
       },
       "tasks:9": {
@@ -14332,7 +14332,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Fluid Heater II",
-          "desc:8": " TheAdvanced Fluid Heater II uses HV power to heat up certain fluids."
+          "desc:8": " The Advanced Fluid Heater II uses HV power to heat up certain fluids."
         }
       },
       "tasks:9": {
@@ -15575,7 +15575,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Multi Smelter",
-          "desc:8": " The Multi Smelter is a multiblock structure that allows you to smelt multiple items at a time using power. The amount of items it can smelt at a time depends on the Coils it has."
+          "desc:8": " The Multi Smelter is a multiblock structure that allows you to smelt multiple items at a time using power. The number of items it can smelt at a time depends on the Coils it has."
         }
       },
       "tasks:9": {
@@ -16526,7 +16526,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Titanium Tetrachloride",
-          "desc:8": " Titanium Tetrachloride is needed for making Titanium and can also be used for increasing the yield of your polymeres. To make it, you\u0027re first going to need to electrolyze 39 Bauxite Dust, one of the first materials you obtain, to get Rutile Dust, which you can then combine with Carbon and Chlorine."
+          "desc:8": " Titanium Tetrachloride is needed for making Titanium and can also be used for increasing the yield of your polymers. To make it, you\u0027re first going to need to electrolyze 39 Bauxite Dust, one of the first materials you obtain, to get Rutile Dust, which you can then combine with Carbon and Chlorine."
         }
       },
       "tasks:9": {
@@ -16625,7 +16625,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "HV to EV Transformer",
-          "desc:8": " With a Extreme Voltage Transformer you are able to switch between HV and EV power."
+          "desc:8": " With an Extreme Voltage Transformer, you are able to switch between HV and EV power."
         }
       },
       "tasks:9": {
@@ -18320,7 +18320,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Sifting Machine III",
-          "desc:8": " The Advanced Sifting Machine III uses EV power to sift Purified gem Oes in the hopes of getting a better gem."
+          "desc:8": " The Advanced Sifting Machine III uses EV power to sift Purified gem Ores in the hopes of getting a better gem."
         }
       },
       "tasks:9": {
@@ -19752,7 +19752,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "A Primitive Circuit",
-          "desc:8": " Now that you have Steel, you are able to make a primitive circuit, a Vacuum Tube. It\u0027s used for making, get this, only one machine! And you know what\u0027s even better? -You\u0027ll probably never make it! It\u0027s also used for making the most basic Basic Circuit, but those are just small details. Anyways, to make one of these bad boys yourself, you are going to need a Glass Tube, some Paper and regular or Fine Copper Wires. The Glass Tube is made with a Ball Mold and Glass Dust in an Shape Smelter, Paper is made with Chad and Stone Slabs, and for making the Wires you are going to need a Wire Cutter."
+          "desc:8": " Now that you have Steel, you are able to make a primitive circuit, a Vacuum Tube. It\u0027s used for making, get this, only one machine! And you know what\u0027s even better? -You\u0027ll probably never make it! It\u0027s also used for making the most basic Basic Circuit, but those are just small details. Anyways, to make one of these bad boys yourself, you are going to need a Glass Tube, some Paper and regular or Fine Copper Wires. The Glass Tube is made with a Ball Mold and Glass Dust in a Shape Smelter, Paper is made with Chad and Stone Slabs, and for making the Wires you are going to need a Wire Cutter."
         }
       },
       "tasks:9": {
@@ -20108,7 +20108,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "LV Electric Pump",
-          "desc:8": " The LV Electric Pump is a common crafting components for LV machines that use fluids."
+          "desc:8": " The LV Electric Pump is a common crafting component for LV machines that use fluids."
         }
       },
       "tasks:9": {
@@ -20475,7 +20475,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Quantum Chest",
-          "desc:8": " Now that you have Osmium and with it access to Field Generators, you\u0027re able to make a Quantum Chest of whichever tier you desire for storing a large amount of items."
+          "desc:8": " Now that you have Osmium and with it access to Field Generators, you\u0027re able to make a Quantum Chest of whichever tier you desire for storing a large number of items."
         }
       },
       "tasks:9": {
@@ -21317,7 +21317,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "MV Electric Pump",
-          "desc:8": " The MV Electric Pump is a common crafting components for MV machines that use fluids."
+          "desc:8": " The MV Electric Pump is a common crafting component for MV machines that use fluids."
         }
       },
       "tasks:9": {
@@ -21956,7 +21956,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Ethylene",
-          "desc:8": " The Ethylene is a fluid commonly used for making polymeres and rubbers. It can be obtained by either reacting Ethanol and Sulfuric Acid or by distilling one of the many Steam-Cracked outputs of Oil."
+          "desc:8": " The Ethylene is a fluid commonly used for making polymers and rubbers. It can be obtained by either reacting Ethanol and Sulfuric Acid or by distilling one of the many Steam-Cracked outputs of Oil."
         }
       },
       "tasks:9": {
@@ -22061,7 +22061,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Polyethylene",
-          "desc:8": " Polyethylene is one of the simplest and mostly commonly used polymeres. It\u0027s made by combining Ethylene with Air or Oxygen, with the latter giving you a better output."
+          "desc:8": " Polyethylene is one of the simplest and mostly commonly used polymers. It\u0027s made by combining Ethylene with Air or Oxygen, with the latter giving you a better output."
         }
       },
       "tasks:9": {
@@ -22194,7 +22194,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Polystyrene",
-          "desc:8": " Polystyrene is a polymere made by combining Styrene with Air or Oxygen. Styrene itself is made with Benzene and Ethylene."
+          "desc:8": " Polystyrene is a polymer made by combining Styrene with Air or Oxygen. Styrene itself is made with Benzene and Ethylene."
         }
       },
       "tasks:9": {
@@ -22383,7 +22383,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Artificial Glue",
-          "desc:8": " Instead of centrifuging Sticky Resin, you can use a combination of Polyvinyl Acetate and Acetone or Methyl Acetate for making Glue. Polyvinyl Acetate is a polymere, so it\u0027s made with Vinyl Acetate and Air or Oxygen. Vinyl Acetate is made with Oxygen, Acetic Acid and Ethylene."
+          "desc:8": " Instead of centrifuging Sticky Resin, you can use a combination of Polyvinyl Acetate and Acetone or Methyl Acetate for making Glue. Polyvinyl Acetate is a polymer, so it\u0027s made with Vinyl Acetate and Air or Oxygen. Vinyl Acetate is made with Oxygen, Acetic Acid and Ethylene."
         }
       },
       "tasks:9": {
@@ -22478,7 +22478,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Polyvinyl Chloride",
-          "desc:8": " Polyvinyl Chloride is a not so commonly used polymere made by combining Vinyl Chloride with Oxygen or Air."
+          "desc:8": " Polyvinyl Chloride is a not so commonly used polymer made by combining Vinyl Chloride with Oxygen or Air."
         }
       },
       "tasks:9": {
@@ -22879,7 +22879,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Processor Assembly",
-          "desc:8": " The Processor Assembly is an upgrade from the Integrated Processor. It\u0027s a advanced Circuit."
+          "desc:8": " The Processor Assembly is an upgrade from the Integrated Processor. It\u0027s an advanced Circuit."
         }
       },
       "tasks:9": {
@@ -23161,7 +23161,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Bisphenol A",
-          "desc:8": " Bisphenol A can be used for making a few Circuit components. It\u0027s made with Phenol, Acetone and Hydrochloric Acid. While there multiple ways to make Phenol, the most efficient way is with Oxygen and Cumene, which can be made with Benzene, Phosphoric Acid and Propene."
+          "desc:8": " Bisphenol A can be used for making a few Circuit components. It\u0027s made with Phenol, Acetone and Hydrochloric Acid. While there are multiple ways to make Phenol, the most efficient way is with Oxygen and Cumene, which can be made with Benzene, Phosphoric Acid and Propene."
         }
       },
       "tasks:9": {
@@ -23854,7 +23854,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "HV Electric Pump",
-          "desc:8": " The HV Electric Pump is a common crafting components for HV machines that use fluids."
+          "desc:8": " The HV Electric Pump is a common crafting component for HV machines that use fluids."
         }
       },
       "tasks:9": {
@@ -23996,7 +23996,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Polytetrafluoroethylene",
-          "desc:8": " Polytetrafluoroethylene is a really strong polymere used in many late-game recipes. It\u0027s made with Tetrafluoroethylene and Air or Oxygen. Tetrafluoroethylene is made with Chloroform and Hydrofluoric Acid."
+          "desc:8": " Polytetrafluoroethylene is a really strong polymer used in many late-game recipes. It\u0027s made with Tetrafluoroethylene and Air or Oxygen. Tetrafluoroethylene is made with Chloroform and Hydrofluoric Acid."
         }
       },
       "tasks:9": {
@@ -24541,7 +24541,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Artificial String",
-          "desc:8": " Instead of by killing Spiders, you can obtain String from Polycaprolactam. Unlike the other polymeres, this one is made with Naphtha and Saltpeter, which is obtained by centrifuging Soul Sand."
+          "desc:8": " Instead of by killing Spiders, you can obtain String from Polycaprolactam. Unlike the other polymers, this one is made with Naphtha and Saltpeter, which is obtained by centrifuging Soul Sand."
         }
       },
       "tasks:9": {
@@ -24795,7 +24795,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Osmium",
-          "desc:8": " Your Electric Blast Furnace can now reach the correct temperature for making Osmium. Osmium is used for making Field Generators, which are used for making Mass Fabricators, Replicators and Naquadah Reactors. T obtain the Dust, you are going to need to thermal centrifuge Iridium Ore."
+          "desc:8": " Your Electric Blast Furnace can now reach the correct temperature for making Osmium. Osmium is used for making Field Generators, which are used for making Mass Fabricators, Replicators and Naquadah Reactors. To obtain the Dust, you are going to need to thermal centrifuge Iridium Ore."
         }
       },
       "tasks:9": {
@@ -25678,7 +25678,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "EV Electric Pump",
-          "desc:8": " The EV Electric Pump is a common crafting components for EV machines that use fluids."
+          "desc:8": " The EV Electric Pump is a common crafting component for EV machines that use fluids."
         }
       },
       "tasks:9": {
@@ -26944,7 +26944,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Polyphenylene Sulfide",
-          "desc:8": " Polyphenylene Sulfide is a polymere that you\u0027ll be able to use as a substitute for metal Foils in the recipes for EV+ Cables. It\u0027s made with Dichlorobenzene, Sodium Sulfide and Air or Oxygen."
+          "desc:8": " Polyphenylene Sulfide is a polymer that you\u0027ll be able to use as a substitute for metal Foils in the recipes for EV+ Cables. It\u0027s made with Dichlorobenzene, Sodium Sulfide and Air or Oxygen."
         }
       },
       "tasks:9": {
@@ -27480,7 +27480,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Nuclear Fission",
-          "desc:8": " The Fission Reactor from NuclearCraft is a cuboid multiblock structure consisting of Casings on the outside, and Cells, for storing fuels, Coolers, for decreasing heat, and Boron or Graphite Blocks, for increasing efficiency and heat, on the inside. You simply put a Fuel in and over time it will generate EU and RF and deplete the Fuel, which you\u0027ll then be able to thermal centrifuge in order to get some new materials. You can use a Comparator in the way that if there\u0027s a heat gain the signal will depend on the amount of heat it has and if not it will depend on the amount of power it has stored."
+          "desc:8": " The Fission Reactor from NuclearCraft is a cuboid multiblock structure consisting of Casings on the outside, and Cells, for storing fuels, Coolers, for decreasing heat, and Boron or Graphite Blocks, for increasing efficiency and heat, on the inside. You simply put a Fuel in and over time it will generate EU and RF and deplete the Fuel, which you\u0027ll then be able to thermal centrifuge in order to get some new materials. You can use a Comparator in the way that if there\u0027s a heat gain the signal will depend on the amount of heat it has and if not, it will depend on the amount of power it has stored."
         }
       },
       "tasks:9": {
@@ -28179,7 +28179,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Fiber-Reinforced Epoxy",
-          "desc:8": " Well, you made the Epoxy Board, but for the Circuits after the ones that require the Epoxy Board, you are going to need a Fiber-Reinforced Board, so why not automate that too? You can never be too prepared. While Fiber-Reinforced Board can be made with Carbon Fibers and Epoxy, it\u0027s more efficiently made with Glass Fibers and Epoxy. Glass Fibers are made wth Borosilicate Glass, which is made with Boron and Glass Dust. Boron can be obtained by centrifuging Borax or crushing Centrifuged Lepidolite Ore."
+          "desc:8": " Well, you made the Epoxy Board, but for the Circuits after the ones that require the Epoxy Board, you are going to need a Fiber-Reinforced Board, so why not automate that too? You can never be too prepared. While Fiber-Reinforced Board can be made with Carbon Fibers and Epoxy, it\u0027s more efficiently made with Glass Fibers and Epoxy. Glass Fibers are made with Borosilicate Glass, which is made with Boron and Glass Dust. Boron can be obtained by centrifuging Borax or crushing Centrifuged Lepidolite Ore."
         }
       },
       "tasks:9": {
@@ -29718,7 +29718,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "IV Electric Pump",
-          "desc:8": " The IV Electric Pump is a common crafting components for IV machines that use fluids."
+          "desc:8": " The IV Electric Pump is a common crafting component for IV machines that use fluids."
         }
       },
       "tasks:9": {
@@ -35692,7 +35692,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Crystal CPU",
-          "desc:8": " For making the top tier Circuits you are going to need Crystal Processing Units. They\u0027re made by engraving Engraved Crystal Chips, which are made with Raw Crystal Chips, Helium and Emerald or Olivine Plates in a Blast Furnace. The Engraved Crystal Chips are made in a Autoclave with Exquisite Olivines or Emeralds, and Europium. They take some time to make and you only have a 10% chance of making them, but luckily you need only one and then you\u0027ll be able to cut your Crystal Processing Units to make more."
+          "desc:8": " For making the top tier Circuits you are going to need Crystal Processing Units. They\u0027re made by engraving Engraved Crystal Chips, which are made with Raw Crystal Chips, Helium and Emerald or Olivine Plates in a Blast Furnace. The Engraved Crystal Chips are made in an Autoclave with Exquisite Olivines or Emeralds, and Europium. They take some time to make and you only have a 10% chance of making them, but luckily you need only one and then you\u0027ll be able to cut your Crystal Processing Units to make more."
         }
       },
       "tasks:9": {
