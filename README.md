@@ -13,7 +13,7 @@ Changelog:
 - Update GregTechCE to 1.9
 - Add OpenComputer
 - Add AE2 fluid crafting
-- Add charger from AE2 to charge wireless crafting terminal (fix of (GregBlock/#172)[https://github.com/TheLimePixel/GregBlock/issues/172])
+- Add charger from AE2 to charge wireless crafting terminal (fix of [GregBlock/#172](https://github.com/TheLimePixel/GregBlock/issues/172))
 - Fix multiple bugs
 - GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.9.
 
