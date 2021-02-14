@@ -14402,7 +14402,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Packager II",
-          "desc:8": " The Advanced Packager II uses HV power to insulate  ULV and LV Wires and autocraft Tiny and Small Dusts into full Dusts."
+          "desc:8": " The Advanced Packager II uses HV power to insulate ULV and LV Wires and autocraft Tiny and Small Dusts into full Dusts."
         }
       },
       "tasks:9": {
@@ -17972,7 +17972,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Packager III",
-          "desc:8": " The Advanced Packager III uses EV power to insulate  ULV and LV Wires and autocraft Tiny and Small Piles of Dusts into full Dusts."
+          "desc:8": " The Advanced Packager III uses EV power to insulate ULV and LV Wires and autocraft Tiny and Small Piles of Dusts into full Dusts."
         }
       },
       "tasks:9": {
@@ -34801,7 +34801,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Boxinator",
-          "desc:8": " The Boxinator uses IV power to automatically insulate  ULV and LV Wires and autocraft Tiny and Small Piles of Dusts into full Dusts."
+          "desc:8": " The Boxinator uses IV power to automatically insulate ULV and LV Wires and autocraft Tiny and Small Piles of Dusts into full Dusts."
         }
       },
       "tasks:9": {
@@ -54975,7 +54975,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Collecting DNA",
-          "desc:8": "  The Genepool can extract DNA from Bees and Trees."
+          "desc:8": " The Genepool can extract DNA from Bees and Trees."
         }
       },
       "tasks:9": {
