@@ -10744,7 +10744,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"projectred-core:resource_item\",Count:1b,Damage:105s}, TrophyName:\"Age -2 - The Logistic Age\", TrophyVariant:\"classic\"}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"projectred-core:resource_item\",Count:1b,Damage:105s}, TrophyName:\"Age -1 - The Logistic Age\", TrophyVariant:\"classic\"}"
         }
       }
     },
