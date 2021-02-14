@@ -1,26 +1,25 @@
-﻿# Gregblock-revamped
+# GregBlock Revamped
 
 
 Welcome, gregblock players, I am glad to announce the new version of Gregblock.
 
-If u have any questions , please create a ticket here : https://github.com/programgames/Gregblock-revamped/issues
+If you have any questions, please create a ticket here: https://github.com/programgames/Gregblock-revamped/issues  
 I will fix them as fast as possible.
 
 
-Changelog :
-- update most of mods
-- add Schematica
-- update GregTechCE to 1.9
-- add OpenComputer
-- add AE2 fluid crafting
-- add charger from ae2 to charge wireless crafting terminal ( fix )
-- fix multiple bugs
+Changelog:
+- Update most of mods
+- Add Schematica
+- Update GregTechCE to 1.9
+- Add OpenComputer
+- Add AE2 fluid crafting
+- Add charger from AE2 to charge wireless crafting terminal ( fix )
+- Fix multiple bugs
 - GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.9.
 
-Installation : 
-
+Installation: 
 - Open the zip file in your favorite launcher
 - Wait for mods downloading
-- (Temporary ) Please verify that every mods included in the mods folder ( custom mods )  from the zip file are really included in your .minecraft folder, if not... add them manually.
+- (Temporary) Please verify that every mod included in the `mods` folder ( custom mods ) from the zip file is really included in your `.minecraft` folder; if not... add them manually.
 
-PS : Old maps should be compatible, your welcome ! But please make a backup before.
+P.S. Old maps should be compatible, you're welcome! But please make a backup before.
