@@ -285,7 +285,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"minecraft:crafting_table\",Count:1b,Damage:0s},\n  TrophyName:\"Age 0 - The Manual Age\",\n  TrophyVariant:\"neon\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"minecraft:crafting_table\",Count:1b,Damage:0s}, TrophyName:\"Age 0 - The Manual Age\", TrophyVariant:\"neon\"}"
         }
       }
     },
@@ -347,7 +347,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:1s},\n  TrophyName:\"Age 1 - The Steam Age\",\n  TrophyVariant:\"neon\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:1s}, TrophyName:\"Age 1 - The Steam Age\", TrophyVariant:\"neon\"}"
         }
       }
     },
@@ -546,7 +546,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gregtech:meta_item_2\",Count:1b,Damage:32487s},\n  TrophyName:\"Age 2 - The LV Age\",\n  TrophyVariant:\"neon\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gregtech:meta_item_2\",Count:1b,Damage:32487s}, TrophyName:\"Age 2 - The LV Age\", TrophyVariant:\"neon\"}"
         }
       }
     },
@@ -629,7 +629,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gtadditions:ga_meta_item\",Count:1b,Damage:32003s},\n  TrophyName:\"Age 3 - The MV Age\",\n  TrophyVariant:\"neon\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gtadditions:ga_meta_item\",Count:1b,Damage:32003s}, TrophyName:\"Age 3 - The MV Age\", TrophyVariant:\"neon\"}"
         }
       }
     },
@@ -728,7 +728,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:503s},\n  TrophyName:\"Age 4 - The HV Age\",\n  TrophyVariant:\"neon\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:503s}, TrophyName:\"Age 4 - The HV Age\", TrophyVariant:\"neon\"}"
         }
       }
     },
@@ -822,7 +822,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:504s},\n  TrophyName:\"Age 5 - The EV Age\",\n  TrophyVariant:\"neon\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:504s}, TrophyName:\"Age 5 - The EV Age\", TrophyVariant:\"neon\"}"
         }
       }
     },
@@ -899,7 +899,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:505s},\n  TrophyName:\"Age 6 - The IV Age\",\n  TrophyVariant:\"neon\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:505s}, TrophyName:\"Age 6 - The IV Age\", TrophyVariant:\"neon\"}"
         }
       }
     },
@@ -1009,7 +1009,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:506s},\n  TrophyName:\"Age 7 - The LuV Age\",\n  TrophyVariant:\"neon\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:506s}, TrophyName:\"Age 7 - The LuV Age\", TrophyVariant:\"neon\"}"
         }
       }
     },
@@ -1132,7 +1132,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:508s},\n  TrophyName:\"Age 9 - The UV Age\",\n  TrophyVariant:\"neon\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:508s}, TrophyName:\"Age 9 - The UV Age\", TrophyVariant:\"neon\"}"
         }
       }
     },
@@ -10744,7 +10744,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"projectred-core:resource_item\",Count:1b,Damage:105s},\n  TrophyName:\"Age -2 - The Logistic Age\",\n  TrophyVariant:\"classic\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"projectred-core:resource_item\",Count:1b,Damage:105s}, TrophyName:\"Age -2 - The Logistic Age\", TrophyVariant:\"classic\"}"
         }
       }
     },
@@ -12139,7 +12139,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"appliedenergistics2:energy_acceptor\",Count:1b,Damage:0s},\n  TrophyName:\"Age -4 - The Digital Age\",\n  TrophyVariant:\"classic\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"appliedenergistics2:energy_acceptor\",Count:1b,Damage:0s}, TrophyName:\"Age -4 - The Digital Age\", TrophyVariant:\"classic\"}"
         }
       }
     },
@@ -27039,7 +27039,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:507s},\n  TrophyName:\"Age 8 - The ZPM Age\",\n  TrophyVariant:\"neon\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:507s}, TrophyName:\"Age 8 - The ZPM Age\", TrophyVariant:\"neon\"}"
         }
       }
     },
@@ -27099,7 +27099,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:509s},\n  TrophyName:\"Age 10 - The MAX Age\",\n  TrophyVariant:\"gold\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gregtech:machine\",Count:1b,Damage:509s}, TrophyName:\"Age 10 - The MAX Age\", TrophyVariant:\"gold\"}"
         }
       }
     },
@@ -51646,7 +51646,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"gregtech:meta_item_1\",Count:1b,Damage:10700s},\n  TrophyName:\"Age -3 - The Pneumatic Age\",\n  TrophyVariant:\"classic\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"gregtech:meta_item_1\",Count:1b,Damage:10700s}, TrophyName:\"Age -3 - The Pneumatic Age\", TrophyVariant:\"classic\"}"
         }
       }
     },
@@ -52868,7 +52868,7 @@
           "rewardID:8": "bq_standard:command",
           "viaPlayer:1": 0,
           "index:3": 0,
-          "command:8": "/give @p simple_trophies:trophy 1 0 {\n  TrophyItem:{id:\"forestry:sturdy_machine\",Count:1b,Damage:0s},\n  TrophyName:\"Age -2 - The Natural Age\",\n  TrophyVariant:\"classic\"\n}"
+          "command:8": "/give @p simple_trophies:trophy 1 0 { TrophyItem:{id:\"forestry:sturdy_machine\",Count:1b,Damage:0s}, TrophyName:\"Age -2 - The Natural Age\", TrophyVariant:\"classic\"}"
         }
       }
     },
