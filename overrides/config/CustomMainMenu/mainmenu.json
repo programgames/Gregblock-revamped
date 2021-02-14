@@ -129,25 +129,6 @@
             }
         },
 
-        "discord": {
-            "text": "",
-            "normalTextColor": 16044800,
-            "hoverTextColor": 11540224,
-            "tooltip": "Click to join our Discord",
-            "texture": "modpack:buttons/discord.png",
-            "posX": 62,
-            "posY": 36,
-            "width" : 24,
-            "height" : 24,
-            "alignment" : "center",
-            "imageWidth": "320",
-            "imageHeight": "320",
-            "action" : {
-                "type" : "openLink",
-                "link" : "https://discord.gg/3yHZvHk"
-            }
-        },
-
         "Bug Report": {
             "text": "",
             "normalTextColor": 16044800,
@@ -163,10 +144,9 @@
             "imageHeight": "320",
             "action" : {
                 "type" : "openLink",
-                "link" : "https://github.com/EmosewaPixel/GregBlock/issues"
+                "link" : "https://github.com/programgames/Gregblock-revamped/issues"
             }
         },
-        
 
         "refresh": {
             "text": "",
