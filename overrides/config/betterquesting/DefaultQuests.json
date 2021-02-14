@@ -29058,7 +29058,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Transformers Going Insane",
-          "desc:8": " The Insane Voltage Transformer is able to turn EV power into IV power and vise versa."
+          "desc:8": " The Insane Voltage Transformer is able to turn EV power into IV power and vice versa."
         }
       },
       "tasks:9": {
@@ -33598,7 +33598,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Repurposed Laundry Washer I-440",
-          "desc:8": " The Repurposed Laundry Washer, also know as the Advanced Ore Washing Plant IV, is used for turning Crushed Ores into Purified ones."
+          "desc:8": " The Repurposed Laundry Washer, also known as the Advanced Ore Washing Plant IV, is used for turning Crushed Ores into Purified ones."
         }
       },
       "tasks:9": {
@@ -36707,7 +36707,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "HSS-E",
-          "desc:8": " HSS-E is an alloys of HSS-G, Manganese, Silicon and Cobalt, used for making ZPM machine components."
+          "desc:8": " HSS-E is an alloy of HSS-G, Manganese, Silicon and Cobalt, used for making ZPM machine components."
         }
       },
       "tasks:9": {
@@ -38489,7 +38489,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "A Pointy Transformer",
-          "desc:8": " The ZPM Transformer is able to turn LuV power into ZPM power and vise versa."
+          "desc:8": " The ZPM Transformer is able to turn LuV power into ZPM power and vice versa."
         }
       },
       "tasks:9": {
@@ -38570,7 +38570,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Ludicrous Transformers",
-          "desc:8": " The Ludicrous Transformer is able to turn IV power into LuV power and vise versa."
+          "desc:8": " The Ludicrous Transformer is able to turn IV power into LuV power and vice versa."
         }
       },
       "tasks:9": {
@@ -38890,7 +38890,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Ultimate Transformers",
-          "desc:8": " The Ultimate Transformer is able to turn ZPM power into UV power and vise versa."
+          "desc:8": " The Ultimate Transformer is able to turn ZPM power into UV power and vice versa."
         }
       },
       "tasks:9": {
@@ -41622,7 +41622,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "The Best Bath In The World",
-          "desc:8": " The Advanced Chemical Bath VII is the best Chemival Bath in the game."
+          "desc:8": " The Advanced Chemical Bath VII is the best Chemical Bath in the game."
         }
       },
       "tasks:9": {
@@ -53888,7 +53888,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Tropical Bees",
-          "desc:8": " In order to obtain Tropical Bees you are going to need Vines. Vines can be obtained from large jungle trees."
+          "desc:8": " In order to obtain Tropical Bees, you are going to need Vines. Vines can be obtained from large jungle trees."
         }
       },
       "tasks:9": {
@@ -54905,7 +54905,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Usable Genes",
-          "desc:8": " Using Empty Serum Vials you can select genes from your Gene Database and then with the Polymeriser you can make them usable."
+          "desc:8": " Using Empty Serum Vials, you can select genes from your Gene Database and then with the Polymeriser you can make them usable."
         }
       },
       "tasks:9": {
@@ -57169,7 +57169,7 @@
           "autoclaim:1": 0,
           "ismain:1": 1,
           "name:8": "Energy Crystal",
-          "desc:8": " Aside fom Large Batteries, HV Battery Buffers can also hold Energy Crystals."
+          "desc:8": " Aside from Large Batteries, HV Battery Buffers can also hold Energy Crystals."
         }
       },
       "tasks:9": {
@@ -67234,7 +67234,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Advanced Item Collector",
-          "desc:8": " The Advanced Item Collector uses MV power to collect items in a 8x8 area."
+          "desc:8": " The Advanced Item Collector uses MV power to collect items in an 8x8 area."
         }
       },
       "tasks:9": {
