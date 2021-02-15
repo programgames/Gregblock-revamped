@@ -16,6 +16,7 @@ Changelog:
 - Add charger from AE2 to charge wireless crafting terminal (fix of [GregBlock/#172](https://github.com/TheLimePixel/GregBlock/issues/172))
 - Fix multiple bugs
 - GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.9.
+- Fix lots of English typos ([#15](https://github.com/programgames/Gregblock-revamped/pull/15))
 
 Installation: 
 - Open the zip file in your favorite launcher
