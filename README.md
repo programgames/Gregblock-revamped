@@ -17,6 +17,7 @@ Changelog:
 - Fix multiple bugs
 - GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.11
 - Fix lots of English typos ([#15](https://github.com/programgames/Gregblock-revamped/pull/15))
+- Fix Steam Pump Tooltips
 
 Installation: 
 - Open the zip file in your favorite launcher
