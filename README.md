@@ -15,7 +15,7 @@ Changelog:
 - Add [AE2 Fluid Crafting](https://www.curseforge.com/minecraft/mc-mods/ae2-fluid-crafting)
 - Add charger from AE2 to charge wireless crafting terminal (fix of [GregBlock/#172](https://github.com/TheLimePixel/GregBlock/issues/172))
 - Fix multiple bugs
-- GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.11.
+- GregicAdditions, GregsConstruct, GTCEBees, GregBlockUtilities included in the mods folder are compatible with Gregtech 1.11
 - Fix lots of English typos ([#15](https://github.com/programgames/Gregblock-revamped/pull/15))
 
 Installation: 
