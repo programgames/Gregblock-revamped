@@ -129,10 +129,6 @@ autoclave.findRecipe(24,[<appliedenergistics2:material:2>],[<liquid:water>*200])
 autoclave.findRecipe(24,[<appliedenergistics2:material:2>],[<liquid:distilled_water>*200]).remove();
 autoclave.recipeBuilder().inputs([<ore:dustCertusQuartz>]).fluidInputs([<liquid:water>*200]).outputs([<appliedenergistics2:material>]).EUt(24).duration(1500).buildAndRegister();
 autoclave.recipeBuilder().inputs([<ore:dustCertusQuartz>]).fluidInputs([<liquid:distilled_water>*200]).outputs([<appliedenergistics2:material>]).EUt(24).duration(1500).buildAndRegister();
-reactor.findRecipe(30,[<appliedenergistics2:material:2>*3,<gregtech:meta_item_1:2063>],[<liquid:water>*1000]).remove();
-reactor.findRecipe(30,[<appliedenergistics2:material:2>*3,<gregtech:meta_item_1:2063>],[<liquid:distilled_water>*1000]).remove();
-reactor.recipeBuilder().inputs([<appliedenergistics2:material:2>*3,<gregtech:meta_item_1:2063>]).fluidInputs([<liquid:water>*1000]).outputs([<appliedenergistics2:material>]).EUt(30).duration(500).buildAndRegister();
-reactor.recipeBuilder().inputs([<appliedenergistics2:material:2>*3,<gregtech:meta_item_1:2063>]).fluidInputs([<liquid:distilled_water>*1000]).outputs([<appliedenergistics2:material>]).EUt(30).duration(500).buildAndRegister();
 hammer.recipeBuilder().inputs([<gregtech:compressed_9:3>]).outputs(<appliedenergistics2:material>*9).EUt(24).duration(100).buildAndRegister();
 compressor.recipeBuilder().inputs([<appliedenergistics2:material>*9]).outputs([<gregtech:compressed_9:3>]).EUt(2).duration(400).buildAndRegister();
 recipes.remove(<appliedenergistics2:fluix_block>);
