@@ -9,6 +9,9 @@
 - The version maintained by **1ahmadbassam** includes **many more bug fixes** than my fork.  
 - My current version **is completable**, but still contains **a lot of remaining bugs**.
 
+### 🐞 Found a Bug?
+If you encounter a bug, please **refer to 1ahmadbassam**, or **create an issue here** and I will forward it to him.
+
 ### 🙏 Special Thanks
 A huge thank you to **1ahmadbassam** for the ongoing development and improvements of the modpack!
 
