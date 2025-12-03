@@ -1,5 +1,19 @@
 # GregBlock Revamped
 
+## ⚠️🚧 IMPORTANT NOTICE — READ THIS FIRST! 🚧⚠️
+
+> **If you came here looking for a fully playable and improved version of the Gregblock modpack, please use this link instead:**  
+> 👉 **https://github.com/1ahmadbassam/Gregblock-revamped117**
+
+### ⚠️ Why?
+- The version maintained by **1ahmadbassam** includes **many more bug fixes** than my fork.  
+- My current version **is completable**, but still contains **a lot of remaining bugs**.
+
+### 🙏 Special Thanks
+A huge thank you to **1ahmadbassam** for the ongoing development and improvements of the modpack!
+
+
+--------------------
 
 Welcome, GregBlock players, I am glad to announce the new version of GregBlock.
 
